@@ -1,0 +1,92 @@
+
+
+
+@font-face {
+  font-family: "Archivo Narrow";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/archivo_narrow/archivonarrow_n5.d7d2ed7fbf03e65de95fbf4dd65b8f16594058a7.woff2") format("woff2"),
+       url("//seoncare.com/cdn/fonts/archivo_narrow/archivonarrow_n5.1b34a2bfca6fa7ceb43f421bf0098175c735e91b.woff") format("woff");
+}
+
+@font-face {
+  font-family: Barlow;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/barlow/barlow_n4.038c60d7ea9ddb238b2f64ba6f463ba6c0b5e5ad.woff2") format("woff2"),
+       url("//seoncare.com/cdn/fonts/barlow/barlow_n4.074a9f2b990b38aec7d56c68211821e455b6d075.woff") format("woff");
+}
+
+@font-face {
+  font-family: Archivo;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/archivo/archivo_n5.272841b6d6b831864f7fecfa55541752bb399511.woff2") format("woff2"),
+       url("//seoncare.com/cdn/fonts/archivo/archivo_n5.27fb58a71a175084eb68e15500549a69fe15738e.woff") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: "Archivo Narrow";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/archivo_narrow/archivonarrow_n6.39db873f9e4e9c8ab7083354b267ce7500b7ee9e.woff2") format("woff2"),
+       url("//seoncare.com/cdn/fonts/archivo_narrow/archivonarrow_n6.997d285d710a777a602467368cc2fbd11a20033e.woff") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: Archivo;
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/archivo/archivo_n6.06ce7cb3e84f9557d04c35761e39e39ea101fb19.woff2") format("woff2"),
+       url("//seoncare.com/cdn/fonts/archivo/archivo_n6.5dd16bc207dfc6d25ca8472d89387d828f610453.woff") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: Barlow;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/barlow/barlow_n5.a193a1990790eba0cc5cca569d23799830e90f07.woff2") format("woff2"),
+       url("//seoncare.com/cdn/fonts/barlow/barlow_n5.ae31c82169b1dc0715609b8cc6a610b917808358.woff") format("woff");
+}
+
+
+
+
+
+
+
+  @font-face {
+  font-family: Barlow;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/barlow/barlow_i4.8c59b6445f83f078b3520bad98b24d859431b377.woff2") format("woff2"),
+       url("//seoncare.com/cdn/fonts/barlow/barlow_i4.bf7e6d69237bd02188410034976892368fd014c0.woff") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: Barlow;
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/barlow/barlow_i5.714d58286997b65cd479af615cfa9bb0a117a573.woff2") format("woff2"),
+       url("//seoncare.com/cdn/fonts/barlow/barlow_i5.0120f77e6447d3b5df4bbec8ad8c2d029d87fb21.woff") format("woff");
+}
+
+
