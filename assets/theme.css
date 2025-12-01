@@ -26286,6 +26286,12 @@ a.siblings__more-link {
   display: inline-block;
 }
 
+.aos-initialized [data-aos][data-aos][data-aos-order="5"],
+.aos-initialized [data-aos][data-aos][data-aos-order="6"] {
+  display: flex;
+  align-items: center;
+}
+
 .aos-initialized [data-aos][data-aos][data-aos-order="5"]::before,
 .aos-initialized [data-aos][data-aos][data-aos-order="6"]::before {
   content: "";
