@@ -40,6 +40,7 @@
     "font_accent_family": "figtree_n5",
     "font_scaling_system": "small",
     "type_nav_font": "accent_bold",
+    "type_kicker_font": "body_normal",
     "font_heading_uppercase": false,
     "font_accent_uppercase": false,
     "type_nav_uppercase": false,
