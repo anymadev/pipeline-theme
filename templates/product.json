@@ -33,6 +33,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "price_size": 5,
             "padding_bottom": 40
@@ -75,8 +76,8 @@
         "buttons": {
           "type": "add-buttons",
           "settings": {
-            "enable_payment_button": true,
-            "enable_gift_card_recipient": true,
+            "enable_payment_button": false,
+            "enable_gift_card_recipient": false,
             "padding_bottom": 20
           }
         },
