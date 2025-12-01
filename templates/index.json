@@ -386,6 +386,61 @@
         "padding_bottom": 36
       }
     },
+    "section_icons_frDfP4": {
+      "type": "section-icons",
+      "blocks": {
+        "icon_block_GbcYeJ": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-basket-return",
+            "icon_color": "#AAAAAA",
+            "title": "Free returns",
+            "text": "<p>Returns within 30 days receive a full refund.</p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icon_block_dQHqKG": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-shipment-world",
+            "icon_color": "#AAAAAA",
+            "title": "Worldwide shipping",
+            "text": "<p>Ship anywhere, rates available at checkout.</p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icon_block_YyeYd9": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-phone",
+            "icon_color": "#AAAAAA",
+            "title": "24/7 support",
+            "text": "<p>Call us anytime at 1(800) 555-1234.</p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_block_GbcYeJ",
+        "icon_block_dQHqKG",
+        "icon_block_YyeYd9"
+      ],
+      "name": "Icon columns",
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--neutral",
+        "icons_size": 30,
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-center",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "ss_testimonials_34_gTRmCn": {
       "type": "ss-testimonials-34",
       "blocks": {
@@ -397,7 +452,7 @@
             "stars_size_mobile": 16,
             "stars_mt": 20,
             "stars_mt_mobile": 24,
-            "stars_color": "#f48b79"
+            "stars_color": "#ff4b00"
           }
         },
         "heading_q7dWfb": {
@@ -642,6 +697,7 @@
     "logos",
     "section_collection_ChWeRi",
     "section_pair_hotspots_accordion_QpfeM3",
+    "section_icons_frDfP4",
     "ss_testimonials_34_gTRmCn"
   ]
 }
