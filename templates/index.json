@@ -267,6 +267,29 @@
                 "theme_text_t7QPKC"
               ]
             },
+            "pair_accordion_item_bjNNYj": {
+              "type": "_pair-accordion-item",
+              "name": "Accordion Item",
+              "settings": {
+                "title": "Massaging Comfort Zones",
+                "gap": "sm"
+              },
+              "blocks": {
+                "theme_text_44p4zA": {
+                  "type": "theme-text",
+                  "settings": {
+                    "text": "Built-in stimulation zones help improve circulation and reduce foot fatigue.",
+                    "font_family": "body",
+                    "text_size": 4,
+                    "max_width": 550
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "theme_text_44p4zA"
+              ]
+            },
             "title": {
               "type": "_pair-title",
               "static": true,
@@ -292,7 +315,8 @@
           },
           "block_order": [
             "pair_accordion_item_gQnJWa",
-            "pair_accordion_item_PCec6D"
+            "pair_accordion_item_PCec6D",
+            "pair_accordion_item_bjNNYj"
           ]
         }
       },
