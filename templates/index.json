@@ -23,14 +23,14 @@
         "banner-heading": {
           "type": "heading",
           "settings": {
-            "title": "Pipeline theme",
+            "title": "RELIEF MADE FOR GROWING FEET",
             "text_size": 11
           }
         },
         "banner-text": {
           "type": "text",
           "settings": {
-            "richtext": "<p>Clean, fast, and focused on sales</p>",
+            "richtext": "<p>100% Satisfaction Guarantee</p>",
             "text_size": 6
           }
         },
