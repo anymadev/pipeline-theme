@@ -139,24 +139,15 @@
             "width": 140,
             "spacing": 50
           }
-        },
-        "logo-4": {
-          "type": "logo_image",
-          "settings": {
-            "link": "",
-            "new_tab": true,
-            "width": 140,
-            "spacing": 50
-          }
         }
       },
       "block_order": [
         "logo-0",
         "logo-1",
         "logo-2",
-        "logo-3",
-        "logo-4"
+        "logo-3"
       ],
+      "custom_css": [],
       "name": "Scrolling logo marquee",
       "settings": {
         "title": "As seen in articles from",

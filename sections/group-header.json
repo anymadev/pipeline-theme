@@ -141,7 +141,7 @@
         "header-block-image-3"
       ],
       "settings": {
-        "header_style": "split",
+        "header_style": "logo_center",
         "logo": "{{ shop.brand.logo }}",
         "logo_max_limit": 120,
         "logo_padding": 15,
@@ -154,7 +154,7 @@
         "enable_account": true,
         "use_icons": false,
         "icons_type": "modern",
-        "cart_icon": "bag",
+        "cart_icon": "basket",
         "header_sticky": "static",
         "transparent_home": false,
         "transparent_collection": false,
