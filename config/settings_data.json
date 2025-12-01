@@ -64,7 +64,7 @@
     "product_grid_show_rating": false,
     "product_grid_show_rating_count": false,
     "badge_sale_type": "percentage",
-    "cart_style": "drawer",
+    "cart_style": "compatible",
     "currency_code_enable": false,
     "checkout_logo_size": "large",
     "checkout_accent_color": "#f4a482",
