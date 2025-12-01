@@ -37,12 +37,12 @@
         "banner-button": {
           "type": "button",
           "settings": {
-            "link_text_1": "View products",
+            "link_text_1": "Shop Now",
             "link_1": "shopify://collections/all",
             "button_size_1": "btn--long",
             "button_style_1": "btn",
             "button_color_1": "btn--white",
-            "link_text_2": "Contact us",
+            "link_text_2": "",
             "link_2": "shopify://pages/contact",
             "button_size_2": "btn--long",
             "button_style_2": "btn-text-thick-line",
