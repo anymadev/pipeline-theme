@@ -430,94 +430,34 @@
           "type": "testimonial",
           "settings": {
             "stars_count": 5,
-            "title": "Title",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "author": "Author's name",
+            "title": "Reviews 1",
+            "text": "<p>Our chiropractor said these probably saved us a dozen visits. Way better than the custom ones we tried before.</p>",
+            "author": "Anna L.",
             "product": "posturereset™solette-ortopediche",
             "custom_title": "Product title",
             "url": ""
           }
         },
-        "testimonial_g84kQp": {
+        "testimonial_LXtfLc": {
           "type": "testimonial",
           "settings": {
             "stars_count": 5,
-            "title": "Title",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "author": "Author's name",
-            "product": "",
+            "title": "Reviews 2",
+            "text": "<p>I tried Footstr for my son who was struggling with arch pain. He’s usually picky but said they felt 'weirdly good' right away. That’s a win in my book.</p>",
+            "author": "Cecilia R.",
+            "product": "posturereset™solette-ortopediche",
             "custom_title": "Product title",
             "url": ""
           }
         },
-        "testimonial_EKg8WN": {
+        "testimonial_qiijKn": {
           "type": "testimonial",
           "settings": {
             "stars_count": 5,
-            "title": "Title",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "author": "Author's name",
-            "product": "",
-            "custom_title": "Product title",
-            "url": ""
-          }
-        },
-        "testimonial_ceEwM6": {
-          "type": "testimonial",
-          "settings": {
-            "stars_count": 5,
-            "title": "Title",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "author": "Author's name",
-            "product": "",
-            "custom_title": "Product title",
-            "url": ""
-          }
-        },
-        "testimonial_RHKwqx": {
-          "type": "testimonial",
-          "settings": {
-            "stars_count": 5,
-            "title": "Title",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "author": "Author's name",
-            "product": "",
-            "custom_title": "Product title",
-            "url": ""
-          }
-        },
-        "testimonial_YWwxRp": {
-          "type": "testimonial",
-          "settings": {
-            "stars_count": 5,
-            "title": "Title",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "author": "Author's name",
-            "product": "",
-            "custom_title": "Product title",
-            "url": ""
-          }
-        },
-        "testimonial_KPYp3q": {
-          "type": "testimonial",
-          "settings": {
-            "stars_count": 5,
-            "title": "Title",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "author": "Author's name",
-            "product": "",
-            "custom_title": "Product title",
-            "url": ""
-          }
-        },
-        "testimonial_T3mDJb": {
-          "type": "testimonial",
-          "settings": {
-            "stars_count": 5,
-            "title": "Title",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "author": "Author's name",
-            "product": "",
+            "title": "Reviews 3",
+            "text": "<p>They're soft, supportive, and my 10-year-old hasn't taken them out of her shoes since she got them. Says it feels like 'walking on a marshmallow with bones.' Whatever that means, I’ll take it!</p>",
+            "author": "Karin A.",
+            "product": "posturereset™solette-ortopediche",
             "custom_title": "Product title",
             "url": ""
           }
@@ -529,13 +469,8 @@
         "heading_mkfBM3",
         "heading_BUdf4j",
         "testimonial_XrVBQg",
-        "testimonial_g84kQp",
-        "testimonial_EKg8WN",
-        "testimonial_ceEwM6",
-        "testimonial_RHKwqx",
-        "testimonial_YWwxRp",
-        "testimonial_KPYp3q",
-        "testimonial_T3mDJb"
+        "testimonial_LXtfLc",
+        "testimonial_qiijKn"
       ],
       "name": "SS - Testimonials #34",
       "settings": {
