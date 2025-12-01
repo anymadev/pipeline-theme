@@ -35,7 +35,7 @@
     "font_heading_family": "dm_sans_n7",
     "font_body_family": "dm_sans_n4",
     "font_accent_family": "archivo_n5",
-    "font_heading_uppercase": true,
+    "font_heading_uppercase": false,
     "font_accent_size": 100,
     "button_radius": 0,
     "parallax_enable": true,
