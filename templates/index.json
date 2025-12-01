@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "hero": {
@@ -6,7 +15,7 @@
         "banner-kicker": {
           "type": "kicker",
           "settings": {
-            "kicker": "Introducing",
+            "kicker": "⭐⭐⭐⭐⭐ (4.8) 10,000+ reviews",
             "enable_line": false,
             "text_size": 3
           }
@@ -318,7 +327,7 @@
         "text_align": "align--middle-center",
         "text_color": "text--white",
         "overlay_opacity": 15,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "enable_overlay_text": false,
         "width": "wrapper--none",
         "padding_top": 0,
@@ -515,6 +524,7 @@
       "name": "Products with image",
       "settings": {
         "collection": "",
+        "product_list": [],
         "sticky_image_enable": true,
         "swap": false,
         "overlay_opacity": 15,
@@ -580,7 +590,8 @@
             "ensemble_accordion_item_FBGmjq": {
               "type": "_pair-accordion-item",
               "settings": {
-                "title": "Inspired by you"
+                "title": "Inspired by you",
+                "gap": "sm"
               },
               "blocks": {
                 "theme_text_YHX3PM": {
@@ -601,7 +612,8 @@
             "ensemble_accordion_item_33Y6Td": {
               "type": "_pair-accordion-item",
               "settings": {
-                "title": "Made for your lifestyle"
+                "title": "Made for your lifestyle",
+                "gap": "sm"
               },
               "blocks": {
                 "theme_text_GRGUpa": {
@@ -622,7 +634,8 @@
             "ensemble_accordion_item_3zzafc": {
               "type": "_pair-accordion-item",
               "settings": {
-                "title": "Exceptional craftsmanship"
+                "title": "Exceptional craftsmanship",
+                "gap": "sm"
               },
               "blocks": {
                 "theme_text_gpwHpa": {
