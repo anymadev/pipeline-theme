@@ -57,7 +57,7 @@
         "text_nFtwUW": {
           "type": "text",
           "settings": {
-            "richtext": "<p>Free premium shipping</p>",
+            "richtext": "<p>Free premium shipping on all orders</p>",
             "text_size": 5
           }
         },
