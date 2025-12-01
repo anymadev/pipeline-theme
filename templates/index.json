@@ -202,12 +202,24 @@
                 "left_mobile": 34
               },
               "blocks": {}
+            },
+            "pair_hotspots_hotspot_VLX7eb": {
+              "type": "_pair-hotspots-hotspot",
+              "name": "Hotspot",
+              "settings": {
+                "top": 50,
+                "left": 50,
+                "top_mobile": 50,
+                "left_mobile": 67
+              },
+              "blocks": {}
             }
           },
           "block_order": [
             "pair_hotspots_hotspot_a9ec6X",
             "pair_hotspots_hotspot_eg8CNc",
-            "pair_hotspots_hotspot_JyDJNf"
+            "pair_hotspots_hotspot_JyDJNf",
+            "pair_hotspots_hotspot_VLX7eb"
           ]
         },
         "accordion": {
@@ -290,6 +302,29 @@
                 "theme_text_44p4zA"
               ]
             },
+            "pair_accordion_item_qeny7T": {
+              "type": "_pair-accordion-item",
+              "name": "Accordion Item",
+              "settings": {
+                "title": "All-Day Support",
+                "gap": "sm"
+              },
+              "blocks": {
+                "theme_text_rUzgeK": {
+                  "type": "theme-text",
+                  "settings": {
+                    "text": "Designed for growing kids who spend long hours on their feet — providing structure, comfort, and support from morning to night.",
+                    "font_family": "body",
+                    "text_size": 4,
+                    "max_width": 550
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "theme_text_rUzgeK"
+              ]
+            },
             "title": {
               "type": "_pair-title",
               "static": true,
@@ -316,7 +351,8 @@
           "block_order": [
             "pair_accordion_item_gQnJWa",
             "pair_accordion_item_PCec6D",
-            "pair_accordion_item_bjNNYj"
+            "pair_accordion_item_bjNNYj",
+            "pair_accordion_item_qeny7T"
           ]
         }
       },
