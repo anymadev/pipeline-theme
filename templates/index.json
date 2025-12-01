@@ -159,7 +159,7 @@
       ],
       "name": "Scrolling logo marquee",
       "settings": {
-        "title": "As seen in",
+        "title": "As seen in articles from",
         "bg": "palette--dark bg--invert",
         "enable_marquee": true,
         "marquee_speed": 30,
