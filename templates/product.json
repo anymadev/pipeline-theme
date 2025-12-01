@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,49 +23,115 @@
         },
         "title": {
           "type": "title",
-          "settings": {}
+          "settings": {
+            "text_size": 9,
+            "product_show_cutline": true,
+            "show_rating": true,
+            "show_rating_count": false,
+            "padding_bottom": 20
+          }
         },
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+            "price_size": 5,
+            "padding_bottom": 40
+          }
         },
         "variants": {
           "type": "variant-selectors",
-          "settings": {}
+          "settings": {
+            "option_size_swatch": 34,
+            "option_size_radio": 50,
+            "option_space": 30,
+            "padding_bottom": 30
+          }
         },
         "subscriptions": {
           "type": "subscription",
-          "settings": {}
+          "settings": {
+            "subscriptions_enable_selectors": true,
+            "padding_bottom": 20
+          }
         },
         "quantity": {
           "type": "quantity",
-          "settings": {}
+          "settings": {
+            "show_quantity": true,
+            "padding_bottom": 20
+          }
         },
         "sizes-remaining": {
           "type": "size-remaining",
-          "settings": {}
+          "settings": {
+            "info_page": "",
+            "title": "",
+            "show_remaining": true,
+            "show_remaining_style": "low",
+            "countdown": 10,
+            "padding_bottom": 0
+          }
         },
         "buttons": {
           "type": "add-buttons",
-          "settings": {}
+          "settings": {
+            "enable_payment_button": true,
+            "enable_gift_card_recipient": true,
+            "padding_bottom": 20
+          }
         },
         "description": {
           "type": "description",
-          "settings": {}
+          "settings": {
+            "style": "accordions",
+            "enable_description": true,
+            "read_more": true,
+            "icon_description": "",
+            "description_expanded": true,
+            "title_1": "Information",
+            "icon_name_1": "",
+            "raw_content_1": "<p>This content type will accept <strong>rich text</strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.</p>",
+            "title_2": "Details",
+            "icon_name_2": "",
+            "raw_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.</p>",
+            "title_3": "",
+            "icon_name_3": "",
+            "raw_content_3": "",
+            "title_4": "",
+            "icon_name_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "icon_name_5": "",
+            "raw_content_5": "",
+            "padding_bottom": 20
+          }
         },
         "upsell_fuXWd1s": {
           "type": "upsell",
-          "settings": {}
+          "settings": {
+            "title": "Buy it with",
+            "upsell_type": "product_single",
+            "product": "",
+            "upsell_product_list": [],
+            "upsell_list_limit": 1,
+            "padding_bottom": 20
+          }
         },
         "pickup": {
           "type": "pickup",
           "disabled": true,
-          "settings": {}
+          "settings": {
+            "padding_bottom": 20
+          }
         },
         "sharing": {
           "type": "sharing",
           "disabled": true,
-          "settings": {}
+          "settings": {
+            "share_label": "Share",
+            "target_device": "",
+            "padding_bottom": 20
+          }
         }
       },
       "block_order": [
@@ -74,10 +149,18 @@
         "sharing"
       ],
       "settings": {
-        "layout": "none@single",
+        "layout": "thumbnails-below@slides",
         "image_width": "half",
         "image_spacing": 10,
         "align": "center",
+        "bg": "palette--light bg--neutral",
+        "mobile_layout": "thumbs",
+        "enable_video_looping": true,
+        "zoom_enable": true,
+        "alt_text_enable": true,
+        "alt_text_icon": "icon-ruler",
+        "product_breadcrumbs_enable": false,
+        "product_breadcrumbs_list": [],
         "width": "wrapper",
         "padding_top": 10,
         "padding_bottom": 36
@@ -142,7 +225,8 @@
             "pair_accordion_item_CKyMm6": {
               "type": "_pair-accordion-item",
               "settings": {
-                "title": "The highest quality"
+                "title": "The highest quality",
+                "gap": "sm"
               },
               "blocks": {
                 "theme_text_q397e9": {
@@ -163,7 +247,8 @@
             "pair_accordion_item_te6wYy": {
               "type": "_pair-accordion-item",
               "settings": {
-                "title": "Reliability you can trust"
+                "title": "Reliability you can trust",
+                "gap": "sm"
               },
               "blocks": {
                 "theme_text_ciPD8r": {
@@ -184,7 +269,8 @@
             "pair_accordion_item_CBMWTa": {
               "type": "_pair-accordion-item",
               "settings": {
-                "title": "Premium inputs, quality product"
+                "title": "Premium inputs, quality product",
+                "gap": "sm"
               },
               "blocks": {
                 "theme_text_m4UVKL": {
