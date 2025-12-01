@@ -24,7 +24,7 @@
           "type": "heading",
           "settings": {
             "title": "RELIEF MADE FOR GROWING FEET",
-            "text_size": 9
+            "text_size": 11
           }
         },
         "banner-text": {
@@ -160,7 +160,7 @@
       "name": "Scrolling logo marquee",
       "settings": {
         "title": "As seen in",
-        "bg": "palette--light bg--accent",
+        "bg": "palette--dark bg--invert",
         "enable_marquee": true,
         "marquee_speed": 30,
         "width": "wrapper--none",
