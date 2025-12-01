@@ -403,10 +403,10 @@
         "icon_block_dQHqKG": {
           "type": "icon_block",
           "settings": {
-            "icon_name": "icon-shipment-world",
+            "icon_name": "icon-lock-shield",
             "icon_color": "#AAAAAA",
-            "title": "Worldwide shipping",
-            "text": "<p>Ship anywhere, rates available at checkout.</p>",
+            "title": "90-Day Money Back Guarantee",
+            "text": "<p>Risk-free trial. If you're not satisfied, we'll refund you.</p>",
             "link_text": "",
             "link_url": ""
           }
@@ -414,10 +414,10 @@
         "icon_block_YyeYd9": {
           "type": "icon_block",
           "settings": {
-            "icon_name": "icon-phone",
+            "icon_name": "icon-shipment",
             "icon_color": "#AAAAAA",
-            "title": "24/7 support",
-            "text": "<p>Call us anytime at 1(800) 555-1234.</p>",
+            "title": "Free Premium Shipping",
+            "text": "<p>Tracked delivery worldwide</p>",
             "link_text": "",
             "link_url": ""
           }
