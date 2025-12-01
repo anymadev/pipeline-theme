@@ -162,10 +162,213 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "section_pair_hotspots_accordion_QpfeM3": {
+      "type": "section-pair-hotspots-accordion",
+      "blocks": {
+        "hotspots": {
+          "type": "_pair-hotspots",
+          "static": true,
+          "settings": {},
+          "blocks": {
+            "pair_hotspots_hotspot_a9ec6X": {
+              "type": "_pair-hotspots-hotspot",
+              "settings": {
+                "top": 76,
+                "left": 73,
+                "top_mobile": 45,
+                "left_mobile": 30
+              },
+              "blocks": {}
+            },
+            "pair_hotspots_hotspot_Kckwg3": {
+              "type": "_pair-hotspots-hotspot",
+              "settings": {
+                "top": 55,
+                "left": 55,
+                "top_mobile": 55,
+                "left_mobile": 55
+              },
+              "blocks": {}
+            },
+            "pair_hotspots_hotspot_bgh9Jx": {
+              "type": "_pair-hotspots-hotspot",
+              "settings": {
+                "top": 60,
+                "left": 75,
+                "top_mobile": 60,
+                "left_mobile": 75
+              },
+              "blocks": {}
+            },
+            "pair_hotspots_hotspot_j6gFii": {
+              "type": "_pair-hotspots-hotspot",
+              "name": "Hotspot",
+              "settings": {
+                "top": 50,
+                "left": 50,
+                "top_mobile": 50,
+                "left_mobile": 50
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "pair_hotspots_hotspot_a9ec6X",
+            "pair_hotspots_hotspot_Kckwg3",
+            "pair_hotspots_hotspot_bgh9Jx",
+            "pair_hotspots_hotspot_j6gFii"
+          ]
+        },
+        "accordion": {
+          "type": "_pair-accordion",
+          "static": true,
+          "settings": {
+            "text_color": "text--neutral",
+            "bg_color": "",
+            "font_family": "accent",
+            "font_weight": "normal",
+            "text_size": 4
+          },
+          "blocks": {
+            "pair_accordion_item_pWTkGn": {
+              "type": "_pair-accordion-item",
+              "settings": {
+                "title": "The highest quality",
+                "gap": "sm"
+              },
+              "blocks": {
+                "theme_text_mVyiQB": {
+                  "type": "theme-text",
+                  "settings": {
+                    "text": "Crafted with precision and attention to detail, we ensure excellence. Designed to meet the highest standards, ensuring an exceptional experience every time.",
+                    "font_family": "body",
+                    "text_size": 4,
+                    "max_width": 550
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "theme_text_mVyiQB"
+              ]
+            },
+            "pair_accordion_item_Ye6xxY": {
+              "type": "_pair-accordion-item",
+              "settings": {
+                "title": "Reliability you can trust",
+                "gap": "sm"
+              },
+              "blocks": {
+                "theme_text_7pMEff": {
+                  "type": "theme-text",
+                  "settings": {
+                    "text": "Made to perform when it matters most, we offer quality that you can count on. Tested and proven to deliver consistent results, it's made for everyday use and beyond.",
+                    "font_family": "body",
+                    "text_size": 4,
+                    "max_width": 550
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "theme_text_7pMEff"
+              ]
+            },
+            "pair_accordion_item_HCrteq": {
+              "type": "_pair-accordion-item",
+              "settings": {
+                "title": "Premium inputs, quality product",
+                "gap": "sm"
+              },
+              "blocks": {
+                "theme_text_RPU3ht": {
+                  "type": "theme-text",
+                  "settings": {
+                    "text": "Using only the finest inputs, we are able to craft a result that stands apart. The details matter and we put time and effort into ensuring our customers get the best.",
+                    "font_family": "body",
+                    "text_size": 4,
+                    "max_width": 550
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "theme_text_RPU3ht"
+              ]
+            },
+            "pair_accordion_item_gQnJWa": {
+              "type": "_pair-accordion-item",
+              "name": "Accordion Item",
+              "settings": {
+                "title": "Your clickable title",
+                "gap": "sm"
+              },
+              "blocks": {
+                "theme_text_aYFJCB": {
+                  "type": "theme-text",
+                  "settings": {
+                    "text": "Use this accordion to share simple text or unleash your creativity with buttons, images, and layout blocks. Experiment with custom designs to make your content stand out and engage your customers",
+                    "font_family": "body",
+                    "text_size": 4,
+                    "max_width": 550
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "theme_text_aYFJCB"
+              ]
+            },
+            "title": {
+              "type": "_pair-title",
+              "static": true,
+              "settings": {
+                "alignment": "center",
+                "gap": "sm"
+              },
+              "blocks": {
+                "theme_kicker_LGxtYN": {
+                  "type": "theme-kicker",
+                  "settings": {
+                    "kicker": "Key Features",
+                    "enable_line": true,
+                    "text_size": 4
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "theme_kicker_LGxtYN"
+              ]
+            }
+          },
+          "block_order": [
+            "pair_accordion_item_pWTkGn",
+            "pair_accordion_item_Ye6xxY",
+            "pair_accordion_item_HCrteq",
+            "pair_accordion_item_gQnJWa"
+          ]
+        }
+      },
+      "name": "Pair: Hotspots & Text",
+      "settings": {
+        "image": "shopify://shop_images/Namnlos_design_-_2025-05-18T123718.638.webp",
+        "order": "hotspots-first",
+        "duration": 5,
+        "dot_color": "palette--light bg--accent",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "hero",
-    "logos"
+    "logos",
+    "section_pair_hotspots_accordion_QpfeM3"
   ]
 }
