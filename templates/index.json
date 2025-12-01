@@ -104,18 +104,20 @@
     "logos": {
       "type": "section-logos",
       "blocks": {
-        "logo-0": {
+        "logo-1": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify://shop_images/Marie_Claire_Magazine_logo_svg_1.svg",
             "link": "",
             "new_tab": true,
             "width": 140,
             "spacing": 50
           }
         },
-        "logo-1": {
+        "logo-0": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify://shop_images/forbes-logos-black-png-download-7_1.svg",
             "link": "",
             "new_tab": true,
             "width": 140,
@@ -125,6 +127,7 @@
         "logo-2": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify://shop_images/redesign-logo.svg",
             "link": "",
             "new_tab": true,
             "width": 140,
@@ -134,6 +137,7 @@
         "logo-3": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify://shop_images/get-the-gloss-logo_1.svg",
             "link": "",
             "new_tab": true,
             "width": 140,
@@ -142,8 +146,8 @@
         }
       },
       "block_order": [
-        "logo-0",
         "logo-1",
+        "logo-0",
         "logo-2",
         "logo-3"
       ],
