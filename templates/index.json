@@ -110,8 +110,8 @@
             "image": "shopify://shop_images/Marie_Claire_Magazine_logo_svg_1.svg",
             "link": "",
             "new_tab": true,
-            "width": 150,
-            "spacing": 30
+            "width": 140,
+            "spacing": 50
           }
         },
         "logo-0": {
@@ -121,7 +121,7 @@
             "link": "",
             "new_tab": true,
             "width": 110,
-            "spacing": 30
+            "spacing": 50
           }
         },
         "logo-2": {
@@ -131,7 +131,7 @@
             "link": "",
             "new_tab": true,
             "width": 125,
-            "spacing": 30
+            "spacing": 50
           }
         },
         "logo-3": {
@@ -141,7 +141,7 @@
             "link": "",
             "new_tab": true,
             "width": 140,
-            "spacing": 30
+            "spacing": 50
           }
         }
       },
