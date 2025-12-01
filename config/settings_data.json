@@ -9,8 +9,8 @@
  */
 {
   "current": {
-    "color_announcement_bg": "#f7f5f4",
-    "color_announcement_text": "#1c1c1c",
+    "color_announcement_bg": "#1c1c1c",
+    "color_announcement_text": "#ffffff",
     "color_header_bg": "#ffffff",
     "color_header_text": "#1c1c1c",
     "color_nav_border": "#f7f5f4",
