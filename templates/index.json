@@ -15,9 +15,9 @@
         "banner-kicker": {
           "type": "kicker",
           "settings": {
-            "kicker": "⭐⭐⭐⭐⭐ (4.8) 10,000+ reviews",
+            "kicker": "(4.8) 10,000+ reviews",
             "enable_line": false,
-            "text_size": 3
+            "text_size": 5
           }
         },
         "banner-heading": {
