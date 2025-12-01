@@ -44,11 +44,11 @@
         "announce_shipping"
       ],
       "settings": {
-        "text_size": 3,
+        "text_size": 4,
         "layout": "marquee",
         "speed": 5,
-        "padding_top": 8,
-        "padding_bottom": 8
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "header": {
