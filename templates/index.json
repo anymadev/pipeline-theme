@@ -369,11 +369,327 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "ss_testimonials_34_gTRmCn": {
+      "type": "ss-testimonials-34",
+      "blocks": {
+        "rating_37cRyV": {
+          "type": "rating",
+          "settings": {
+            "stars_count": 4.5,
+            "stars_size": 20,
+            "stars_size_mobile": 16,
+            "stars_mt": 20,
+            "stars_mt_mobile": 24,
+            "stars_color": "#f48b79"
+          }
+        },
+        "heading_q7dWfb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Rated 4.95/5 (10,000+ satisfied customers)</p>",
+            "heading_custom": true,
+            "heading_font": "figtree_n4",
+            "heading_size": 24,
+            "heading_size_mobile": 14,
+            "heading_height": 130,
+            "heading_mt": 10,
+            "heading_mt_mobile": 6,
+            "heading_color": "#000000"
+          }
+        },
+        "heading_mkfBM3": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>What Our Customers Say</p>",
+            "heading_custom": true,
+            "heading_font": "figtree_n6",
+            "heading_size": 40,
+            "heading_size_mobile": 34,
+            "heading_height": 130,
+            "heading_mt": 12,
+            "heading_mt_mobile": 10,
+            "heading_color": "#000000"
+          }
+        },
+        "heading_BUdf4j": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Real reviews from real people</p>",
+            "heading_custom": true,
+            "heading_font": "figtree_n4",
+            "heading_size": 24,
+            "heading_size_mobile": 14,
+            "heading_height": 130,
+            "heading_mt": 10,
+            "heading_mt_mobile": 6,
+            "heading_color": "#000000"
+          }
+        },
+        "testimonial_XrVBQg": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Title",
+            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "author": "Author's name",
+            "product": "posturereset™solette-ortopediche",
+            "custom_title": "Product title",
+            "url": ""
+          }
+        },
+        "testimonial_g84kQp": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Title",
+            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "author": "Author's name",
+            "product": "",
+            "custom_title": "Product title",
+            "url": ""
+          }
+        },
+        "testimonial_EKg8WN": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Title",
+            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "author": "Author's name",
+            "product": "",
+            "custom_title": "Product title",
+            "url": ""
+          }
+        },
+        "testimonial_ceEwM6": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Title",
+            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "author": "Author's name",
+            "product": "",
+            "custom_title": "Product title",
+            "url": ""
+          }
+        },
+        "testimonial_RHKwqx": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Title",
+            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "author": "Author's name",
+            "product": "",
+            "custom_title": "Product title",
+            "url": ""
+          }
+        },
+        "testimonial_YWwxRp": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Title",
+            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "author": "Author's name",
+            "product": "",
+            "custom_title": "Product title",
+            "url": ""
+          }
+        },
+        "testimonial_KPYp3q": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Title",
+            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "author": "Author's name",
+            "product": "",
+            "custom_title": "Product title",
+            "url": ""
+          }
+        },
+        "testimonial_T3mDJb": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Title",
+            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "author": "Author's name",
+            "product": "",
+            "custom_title": "Product title",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "rating_37cRyV",
+        "heading_q7dWfb",
+        "heading_mkfBM3",
+        "heading_BUdf4j",
+        "testimonial_XrVBQg",
+        "testimonial_g84kQp",
+        "testimonial_EKg8WN",
+        "testimonial_ceEwM6",
+        "testimonial_RHKwqx",
+        "testimonial_YWwxRp",
+        "testimonial_KPYp3q",
+        "testimonial_T3mDJb"
+      ],
+      "name": "SS - Testimonials #34",
+      "settings": {
+        "content_align": "center",
+        "content_align_mobile": "center",
+        "slider_view": 3.5,
+        "slider_view_mobile": 1,
+        "slider_gap": 10,
+        "slider_gap_mobile": 10,
+        "slider_mt": 40,
+        "slider_mt_mobile": 28,
+        "slide_padding_horizontal": 16,
+        "slide_padding_horizontal_mobile": 40,
+        "slide_padding_vertical": 16,
+        "slide_padding_vertical_mobile": 30,
+        "slide_radius": 0,
+        "slide_border_thickness": 1,
+        "slide_content_align": "center",
+        "slide_content_align_mobile": "center",
+        "slide_stars_size": 16,
+        "slide_stars_size_mobile": 16,
+        "slide_stars_mt": 0,
+        "slide_stars_mt_mobile": 0,
+        "slide_title_custom": false,
+        "slide_title_font": "josefin_sans_n4",
+        "slide_title_size": 20,
+        "slide_title_size_mobile": 18,
+        "slide_title_height": 130,
+        "slide_title_mt": 10,
+        "slide_title_mt_mobile": 10,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 19,
+        "text_height": 150,
+        "text_mt": 10,
+        "text_mt_mobile": 10,
+        "use_read_more": false,
+        "read_more": "Read More",
+        "read_less": "Read Less",
+        "small_text_size": 150,
+        "verify": "Verified Purchase",
+        "verify_custom": false,
+        "verify_font": "josefin_sans_n4",
+        "verify_size": 14,
+        "verify_size_mobile": 12,
+        "verify_height": 130,
+        "verify_mt": 40,
+        "verify_mt_mobile": 16,
+        "verify_icon_size": 20,
+        "verify_icon_size_mobile": 20,
+        "verify_icon": true,
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 14,
+        "author_size_mobile": 12,
+        "author_height": 130,
+        "arrow_size": 48,
+        "arrow_size_mobile": 38,
+        "arrow_icon_size": 10,
+        "arrow_icon_size_mobile": 8,
+        "arrow_border_thickness": 0,
+        "arrow_radius": 0,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": false,
+        "arrow_show_mobile": false,
+        "scrollbar_height": 6,
+        "scrollbar_mt": 20,
+        "scrollbar_mt_mobile": 16,
+        "scrollbar_show_desktop": false,
+        "scrollbar_show_mobile": false,
+        "product_padding_horizontal": 8,
+        "product_padding_horizontal_mobile": 8,
+        "product_padding_vertical": 8,
+        "product_padding_vertical_mobile": 8,
+        "product_radius": 0,
+        "product_mt": 24,
+        "product_mt_mobile": 24,
+        "product_image_radius": 0,
+        "product_image_border_thickness": 0,
+        "product_image_ratio": "square",
+        "product_image_ratio_mobile": "square",
+        "product_title_custom": false,
+        "product_title_font": "josefin_sans_n4",
+        "product_title_size": 14,
+        "product_title_size_mobile": 14,
+        "product_title_height": 130,
+        "product_title_align": "center",
+        "product_title_align_mobile": "center",
+        "product_button_text": "Shop now",
+        "product_button_custom": false,
+        "product_button_font": "josefin_sans_n4",
+        "product_button_size": 13,
+        "product_button_size_mobile": 13,
+        "product_button_height": 100,
+        "product_button_padding_horizontal": 12,
+        "product_button_padding_horizontal_mobile": 12,
+        "product_button_padding_vertical": 14,
+        "product_button_padding_vertical_mobile": 14,
+        "product_button_radius": 0,
+        "product_button_border_thickness": 0,
+        "product_button_mt": 10,
+        "product_button_mt_mobile": 10,
+        "product_button_style": "outline",
+        "slide_stars_color": "#f48b79",
+        "slide_title_color": "#000000",
+        "text_color": "#000000",
+        "text_more_less_color": "#000000",
+        "author_color": "#000000",
+        "verify_color": "#000000",
+        "verify_icon_color": "#FFFFFF",
+        "verify_icon_bg_color": "#000000",
+        "slide_bg_color": "#FFFFFF",
+        "slide_border_color": "#f1f1f1",
+        "product_title_color": "#000000",
+        "product_bg_color": "#f9dece",
+        "product_image_border_color": "#000000",
+        "product_button_color": "#ffffff",
+        "product_button_hover_color": "#FFFFFF",
+        "product_button_bg_color": "#f48b79",
+        "product_button_bg_hover_color": "#f48b79",
+        "product_button_border_color": "#000000",
+        "product_button_border_hover_color": "#000000",
+        "arrow_color": "#7B7B7B",
+        "arrow_hover_color": "#7B7B7B",
+        "arrow_bg_color": "#EBEBEB",
+        "arrow_bg_hover_color": "#F5F5F5",
+        "arrow_border_color": "#C7C7C7",
+        "arrow_border_hover_color": "#C7C7C7",
+        "scrollbar_drag_bg_color": "#121212",
+        "scrollbar_bg_color": "#F3F3F3",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
     "hero",
     "logos",
-    "section_pair_hotspots_accordion_QpfeM3"
+    "section_pair_hotspots_accordion_QpfeM3",
+    "ss_testimonials_34_gTRmCn"
   ]
 }
