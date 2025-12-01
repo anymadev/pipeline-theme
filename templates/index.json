@@ -111,7 +111,7 @@
             "link": "",
             "new_tab": true,
             "width": 150,
-            "spacing": 50
+            "spacing": 30
           }
         },
         "logo-0": {
@@ -121,7 +121,7 @@
             "link": "",
             "new_tab": true,
             "width": 110,
-            "spacing": 50
+            "spacing": 30
           }
         },
         "logo-2": {
@@ -131,7 +131,7 @@
             "link": "",
             "new_tab": true,
             "width": 125,
-            "spacing": 50
+            "spacing": 30
           }
         },
         "logo-3": {
@@ -141,7 +141,7 @@
             "link": "",
             "new_tab": true,
             "width": 140,
-            "spacing": 50
+            "spacing": 30
           }
         }
       },
