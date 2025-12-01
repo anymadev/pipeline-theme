@@ -10,14 +10,14 @@
 {
   "current": {
     "color_announcement_bg": "#f7f5f4",
-    "color_announcement_text": "#2e413d",
+    "color_announcement_text": "#1c1c1c",
     "color_header_bg": "#ffffff",
     "color_header_text": "#1d2523",
     "color_nav_border": "#f7f5f4",
     "color_body_bg": "#ffffff",
-    "color_body_text": "#334641",
+    "color_body_text": "#1c1c1c",
     "color_primary": "#d2815f",
-    "color_secondary": "#567e73",
+    "color_secondary": "#1c1c1c",
     "color_bg_light": "#f7f5f4",
     "color_bg_inverse": "#2e413d",
     "color_text_inverse": "#ffffff",
