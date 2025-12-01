@@ -191,11 +191,23 @@
                 "left_mobile": 66
               },
               "blocks": {}
+            },
+            "pair_hotspots_hotspot_JyDJNf": {
+              "type": "_pair-hotspots-hotspot",
+              "name": "Hotspot",
+              "settings": {
+                "top": 50,
+                "left": 50,
+                "top_mobile": 29,
+                "left_mobile": 34
+              },
+              "blocks": {}
             }
           },
           "block_order": [
             "pair_hotspots_hotspot_a9ec6X",
-            "pair_hotspots_hotspot_eg8CNc"
+            "pair_hotspots_hotspot_eg8CNc",
+            "pair_hotspots_hotspot_JyDJNf"
           ]
         },
         "accordion": {
@@ -263,18 +275,18 @@
                 "gap": "sm"
               },
               "blocks": {
-                "theme_kicker_LGxtYN": {
-                  "type": "theme-kicker",
+                "theme_heading_qMKDgV": {
+                  "type": "theme-heading",
+                  "name": "Heading",
                   "settings": {
-                    "kicker": "Key Features",
-                    "enable_line": true,
-                    "text_size": 4
+                    "title": "The Alevia difference",
+                    "text_size": 9
                   },
                   "blocks": {}
                 }
               },
               "block_order": [
-                "theme_kicker_LGxtYN"
+                "theme_heading_qMKDgV"
               ]
             }
           },
