@@ -361,7 +361,7 @@
         "image": "shopify://shop_images/Namnlos_design_-_2025-05-18T123718.638.webp",
         "order": "hotspots-first",
         "duration": 5,
-        "dot_color": "palette--bright bg--bright--accent",
+        "dot_color": "palette--light bg--neutral",
         "brick_gutter": 0,
         "borders": false,
         "bg_color": "",
