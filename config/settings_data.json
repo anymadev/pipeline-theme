@@ -51,7 +51,7 @@
     "layout_outer": 50,
     "button_radius": 2,
     "animations_scroll_enable": true,
-    "parallax_enable": true,
+    "parallax_enable": false,
     "collection_text_alignment": "text-left",
     "cycle_images_limit": 5,
     "product_grid_image": "crop",

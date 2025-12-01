@@ -53,13 +53,21 @@
             "button_style_3": "btn-text-thick-line",
             "button_color_3": "btn--white"
           }
+        },
+        "image_ikb8Rb": {
+          "type": "image",
+          "settings": {
+            "image_max_limit": 300,
+            "image_link": ""
+          }
         }
       },
       "block_order": [
         "banner-kicker",
         "banner-heading",
         "banner-text",
-        "banner-button"
+        "banner-button",
+        "image_ikb8Rb"
       ],
       "settings": {
         "height": "use_screen_two_thirds",
