@@ -405,8 +405,8 @@
           "settings": {
             "icon_name": "icon-lock-shield",
             "icon_color": "#000000",
-            "title": "90-Day Money Back Guarantee",
-            "text": "<p>Risk-free trial. If you're not satisfied, we'll refund you.</p>",
+            "title": "Secure payments",
+            "text": "<p>All payments are securely encrypted</p>",
             "link_text": "",
             "link_url": ""
           }
@@ -417,7 +417,7 @@
             "icon_name": "icon-shipment",
             "icon_color": "#000000",
             "title": "Free Premium Shipping",
-            "text": "<p>Tracked delivery worldwide</p>",
+            "text": "<p>Shipped to your home in 3-7 business day</p>",
             "link_text": "",
             "link_url": ""
           }
