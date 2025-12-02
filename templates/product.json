@@ -147,9 +147,9 @@
         "icon_CQfFDz": {
           "type": "icon",
           "settings": {
-            "icon_name": "icon-send",
+            "icon_name": "icon-star-rating",
             "icon_size": 16,
-            "icon_color": "#4b4b4b",
+            "icon_color": "#ff4b00",
             "text": "<p>Corrects flat feet and overpronation</p>",
             "padding_bottom": 8
           }
@@ -157,9 +157,9 @@
         "icon_hGK4zh": {
           "type": "icon",
           "settings": {
-            "icon_name": "icon-award",
+            "icon_name": "icon-star-rating",
             "icon_size": 16,
-            "icon_color": "#4b4b4b",
+            "icon_color": "#ff4b00",
             "text": "<p>Relieves knee, heel, and back discomfort</p>",
             "padding_bottom": 8
           }
@@ -167,9 +167,9 @@
         "icon_afR4Ae": {
           "type": "icon",
           "settings": {
-            "icon_name": "icon-award",
+            "icon_name": "icon-star-rating",
             "icon_size": 16,
-            "icon_color": "#4b4b4b",
+            "icon_color": "#ff4b00",
             "text": "<p>Soft cushioning for growing feet</p>",
             "padding_bottom": 8
           }
@@ -177,9 +177,9 @@
         "icon_NrJNQJ": {
           "type": "icon",
           "settings": {
-            "icon_name": "icon-award",
+            "icon_name": "icon-star-rating",
             "icon_size": 16,
-            "icon_color": "#4b4b4b",
+            "icon_color": "#ff4b00",
             "text": "<p>Free premium shipping</p>",
             "padding_bottom": 20
           }
@@ -234,6 +234,7 @@
         },
         "upsell_fuXWd1s": {
           "type": "upsell",
+          "disabled": true,
           "settings": {
             "title": "Buy it with",
             "upsell_type": "product_single",
