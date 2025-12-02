@@ -12,6 +12,31 @@
     "main": {
       "type": "product",
       "blocks": {
+        "section_store_block_review_summary_megifp": {
+          "type": "shopify://apps/section-store/blocks/block-review-summary/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
+          "settings": {
+            "stars_count": 4.5,
+            "stars_size": 17,
+            "stars_gap": 2,
+            "stars_color": "#FFFFFF",
+            "stars_bg_color": "#00B67A",
+            "stars_bg_half_color": "#DDDDDD",
+            "first_text": "",
+            "first_text_size": 15,
+            "first_text_color": "#000000",
+            "second_text": "<p><strong>4.5/5 </strong>Excellent<strong> 5,000+ </strong>reviews</p>",
+            "second_text_size": 13,
+            "second_text_color": "#000000",
+            "border": "none",
+            "border_thickness": 1,
+            "border_color": "#000000",
+            "radius": 0,
+            "background": "",
+            "background_gradient": "",
+            "padding_vertical": 16,
+            "padding_horizontal": 0
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -20,6 +45,43 @@
             "show_rating": true,
             "show_rating_count": false,
             "padding_bottom": 20
+          }
+        },
+        "text_8BydzC": {
+          "type": "text",
+          "settings": {
+            "title": "<p>Give your child the support their growing feet need. StepX™ Insoles gently correct flat feet and overpronation, reduce heel and knee discomfort, and provide soft cushioning for everyday comfort. A natural way to improve alignment, stability, and confidence with every step.</p>",
+            "padding_bottom": 20
+          }
+        },
+        "icon_CQfFDz": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-award",
+            "icon_size": 16,
+            "icon_color": "#4b4b4b",
+            "text": "<p>Icon text</p>",
+            "padding_bottom": 8
+          }
+        },
+        "icon_hGK4zh": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-award",
+            "icon_size": 16,
+            "icon_color": "#4b4b4b",
+            "text": "<p>Icon text</p>",
+            "padding_bottom": 8
+          }
+        },
+        "icon_NrJNQJ": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-award",
+            "icon_size": 16,
+            "icon_color": "#4b4b4b",
+            "text": "<p>Icon text</p>",
+            "padding_bottom": 16
           }
         },
         "buttons": {
@@ -69,7 +131,12 @@
         }
       },
       "block_order": [
+        "section_store_block_review_summary_megifp",
         "title",
+        "text_8BydzC",
+        "icon_CQfFDz",
+        "icon_hGK4zh",
+        "icon_NrJNQJ",
         "buttons",
         "description",
         "upsell_fuXWd1s"
