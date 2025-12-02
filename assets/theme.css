@@ -26286,12 +26286,12 @@ a.siblings__more-link {
   display: inline-block;
 }
 
-.hero__kicker [data-aos][data-aos][data-aos-order="1"] {
+.hero__kicker[data-aos-order="1"] {
   display: flex;
   align-items: center;
 }
 
-.hero__kicker [data-aos][data-aos][data-aos-order="1"]::before {
+.hero__kicker[data-aos-order="1"]::before {
   content: "";
   flex-shrink: 0;
   width: 100px;
