@@ -12,15 +12,6 @@
     "main": {
       "type": "product",
       "blocks": {
-        "spacer_fGNzmR": {
-          "type": "spacer",
-          "settings": {
-            "show_line": false,
-            "target_device": "hidden-mobile",
-            "padding_top": 30,
-            "padding_bottom": 10
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -29,52 +20,6 @@
             "show_rating": true,
             "show_rating_count": false,
             "padding_bottom": 20
-          }
-        },
-        "price": {
-          "type": "price",
-          "disabled": true,
-          "settings": {
-            "price_size": 5,
-            "padding_bottom": 40
-          }
-        },
-        "variants": {
-          "type": "variant-selectors",
-          "disabled": true,
-          "settings": {
-            "option_size_swatch": 34,
-            "option_size_radio": 50,
-            "option_space": 30,
-            "padding_bottom": 30
-          }
-        },
-        "subscriptions": {
-          "type": "subscription",
-          "disabled": true,
-          "settings": {
-            "subscriptions_enable_selectors": true,
-            "padding_bottom": 20
-          }
-        },
-        "quantity": {
-          "type": "quantity",
-          "disabled": true,
-          "settings": {
-            "show_quantity": true,
-            "padding_bottom": 20
-          }
-        },
-        "sizes-remaining": {
-          "type": "size-remaining",
-          "disabled": true,
-          "settings": {
-            "info_page": "",
-            "title": "",
-            "show_remaining": true,
-            "show_remaining_style": "low",
-            "countdown": 10,
-            "padding_bottom": 0
           }
         },
         "buttons": {
@@ -121,37 +66,13 @@
             "upsell_list_limit": 1,
             "padding_bottom": 20
           }
-        },
-        "pickup": {
-          "type": "pickup",
-          "disabled": true,
-          "settings": {
-            "padding_bottom": 20
-          }
-        },
-        "sharing": {
-          "type": "sharing",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share",
-            "target_device": "",
-            "padding_bottom": 20
-          }
         }
       },
       "block_order": [
-        "spacer_fGNzmR",
         "title",
-        "price",
-        "variants",
-        "subscriptions",
-        "quantity",
-        "sizes-remaining",
         "buttons",
         "description",
-        "upsell_fuXWd1s",
-        "pickup",
-        "sharing"
+        "upsell_fuXWd1s"
       ],
       "settings": {
         "layout": "thumbnails-below@slides",
