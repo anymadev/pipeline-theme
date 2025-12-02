@@ -164,13 +164,23 @@
             "padding_bottom": 8
           }
         },
-        "icon_NrJNQJ": {
+        "icon_afR4Ae": {
           "type": "icon",
           "settings": {
             "icon_name": "icon-award",
             "icon_size": 16,
             "icon_color": "#4b4b4b",
             "text": "<p>Soft cushioning for growing feet</p>",
+            "padding_bottom": 8
+          }
+        },
+        "icon_NrJNQJ": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-award",
+            "icon_size": 16,
+            "icon_color": "#4b4b4b",
+            "text": "<p>Free premium shipping</p>",
             "padding_bottom": 20
           }
         },
@@ -241,6 +251,7 @@
         "liquid_eJBhp6",
         "icon_CQfFDz",
         "icon_hGK4zh",
+        "icon_afR4Ae",
         "icon_NrJNQJ",
         "buttons",
         "liquid_GbHDtg",
