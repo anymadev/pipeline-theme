@@ -50,7 +50,7 @@
         "text_8BydzC": {
           "type": "text",
           "settings": {
-            "title": "<p>Give your child the support their growing feet need. StepX™ Insoles gently correct flat feet and overpronation, reduce heel and knee discomfort, and provide soft cushioning for everyday comfort. A natural way to improve alignment, stability, and confidence with every step.</p>",
+            "title": "<p>Give your child the support their growing feet need. <strong>StepX™ Insoles</strong> gently <strong>correct flat feet and overpronation</strong>, <strong>reduce heel and knee discomfort</strong>, and provide <strong>soft cushioning</strong> for everyday comfort. A natural way to improve <strong>alignment</strong>, <strong>stability</strong>, and confidence with every step.</p>",
             "padding_bottom": 20
           }
         },
@@ -81,7 +81,7 @@
             "icon_size": 16,
             "icon_color": "#4b4b4b",
             "text": "<p>Icon text</p>",
-            "padding_bottom": 24
+            "padding_bottom": 20
           }
         },
         "buttons": {
