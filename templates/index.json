@@ -171,6 +171,31 @@
         "padding_bottom": 36
       }
     },
+    "section_richtext_MiN87V": {
+      "type": "section-richtext",
+      "blocks": {
+        "heading_Nk7KYt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Alevia's xxx Helps You",
+            "text_size": 10
+          }
+        }
+      },
+      "block_order": [
+        "heading_Nk7KYt"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-center",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "section_pair_hotspots_accordion_QpfeM3": {
       "type": "section-pair-hotspots-accordion",
       "blocks": {
@@ -341,18 +366,19 @@
                 "gap": "sm"
               },
               "blocks": {
-                "theme_heading_qMKDgV": {
-                  "type": "theme-heading",
-                  "name": "Heading",
+                "theme_kicker_FCQcxy": {
+                  "type": "theme-kicker",
+                  "name": "Kicker",
                   "settings": {
-                    "title": "Why Alevia's xxx Helps You",
-                    "text_size": 9
+                    "kicker": "Introducing",
+                    "enable_line": true,
+                    "text_size": 4
                   },
                   "blocks": {}
                 }
               },
               "block_order": [
-                "theme_heading_qMKDgV"
+                "theme_kicker_FCQcxy"
               ]
             }
           },
@@ -429,8 +455,8 @@
         "layout": "grid--stacked",
         "align_text": "text-center",
         "width": "wrapper",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 80,
+        "padding_bottom": 120
       }
     },
     "section_richtext_QTEp3Y": {
@@ -450,45 +476,24 @@
             "text_size": 4,
             "text_columns": 1
           }
-        },
-        "button_YQdW4X": {
-          "type": "button",
-          "settings": {
-            "link_text_1": "Shop all",
-            "link_1": "shopify://collections/all",
-            "button_size_1": "btn--medium",
-            "button_style_1": "btn-text-thick-line",
-            "button_color_1": "btn--neutral",
-            "link_text_2": "Learn more",
-            "link_2": "",
-            "button_size_2": "btn--medium",
-            "button_style_2": "btn-text-thick-line",
-            "button_color_2": "btn--neutral",
-            "link_text_3": "",
-            "link_3": "",
-            "button_size_3": "btn--medium",
-            "button_style_3": "btn-text-thick-line",
-            "button_color_3": "btn--neutral"
-          }
         }
       },
       "block_order": [
         "heading_MBjfYg",
-        "text_aQK3br",
-        "button_YQdW4X"
+        "text_aQK3br"
       ],
       "custom_css": [
         ".aos-initialized [data-aos][data-aos][data-aos-order=\"1\"]:before {display: none;}"
       ],
       "name": "Rich text",
       "settings": {
-        "align_text": "text-left",
+        "align_text": "text-center",
         "text_color": "text--neutral",
         "bg": "palette--light bg--accent",
         "content_width": 2000,
         "width": "wrapper",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 90,
+        "padding_bottom": 90
       }
     },
     "ss_testimonials_34_gTRmCn": {
@@ -746,6 +751,7 @@
     "hero",
     "logos",
     "section_collection_ChWeRi",
+    "section_richtext_MiN87V",
     "section_pair_hotspots_accordion_QpfeM3",
     "section_icons_frDfP4",
     "section_richtext_QTEp3Y",
