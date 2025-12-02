@@ -54,6 +54,12 @@
             "padding_bottom": 20
           }
         },
+        "liquid_eJBhp6": {
+          "type": "liquid",
+          "settings": {
+            "custom_liquid": "<div id='ss-reviews'></div>"
+          }
+        },
         "icon_CQfFDz": {
           "type": "icon",
           "settings": {
@@ -148,6 +154,7 @@
         "section_store_block_review_summary_megifp",
         "title",
         "text_8BydzC",
+        "liquid_eJBhp6",
         "icon_CQfFDz",
         "icon_hGK4zh",
         "icon_NrJNQJ",
