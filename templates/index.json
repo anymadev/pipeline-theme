@@ -243,7 +243,7 @@
           "static": true,
           "settings": {
             "text_color": "text--neutral",
-            "bg_color": "",
+            "bg_color": "#f7f0e8",
             "font_family": "accent",
             "font_weight": "normal",
             "text_size": 4
