@@ -394,8 +394,8 @@
           "settings": {
             "icon_name": "icon-basket-return",
             "icon_color": "#000000",
-            "title": "Free returns",
-            "text": "<p>Returns within 30 days receive a full refund.</p>",
+            "title": "Satisfied or refunded",
+            "text": "<p>Within 90 days of your purchase</p>",
             "link_text": "",
             "link_url": ""
           }
