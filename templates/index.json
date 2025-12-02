@@ -465,22 +465,22 @@
         "heading_MBjfYg": {
           "type": "heading",
           "settings": {
-            "heading": "Rich text",
-            "text_size": 8
+            "heading": "No More Pain... Just Comfort",
+            "text_size": 10
           }
         },
-        "text_aQK3br": {
-          "type": "text",
+        "kicker_CdkAGw": {
+          "type": "kicker",
           "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "text_size": 4,
-            "text_columns": 1
+            "kicker": "Over 10,000 satisfied customers",
+            "enable_line": false,
+            "text_size": 4
           }
         }
       },
       "block_order": [
         "heading_MBjfYg",
-        "text_aQK3br"
+        "kicker_CdkAGw"
       ],
       "custom_css": [
         ".aos-initialized [data-aos][data-aos][data-aos-order=\"1\"]:before {display: none;}"
