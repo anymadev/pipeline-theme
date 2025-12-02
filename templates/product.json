@@ -18,9 +18,9 @@
             "stars_count": 4.5,
             "stars_size": 17,
             "stars_gap": 2,
-            "stars_color": "#FFFFFF",
-            "stars_bg_color": "#00B67A",
-            "stars_bg_half_color": "#DDDDDD",
+            "stars_color": "#ffffff",
+            "stars_bg_color": "#00b67a",
+            "stars_bg_half_color": "#dddddd",
             "first_text": "",
             "first_text_size": 15,
             "first_text_color": "#000000",
@@ -81,7 +81,7 @@
             "icon_size": 16,
             "icon_color": "#4b4b4b",
             "text": "<p>Icon text</p>",
-            "padding_bottom": 16
+            "padding_bottom": 24
           }
         },
         "buttons": {
