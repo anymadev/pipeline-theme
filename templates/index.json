@@ -378,6 +378,70 @@
         "padding_bottom": 36
       }
     },
+    "section_richtext_QTEp3Y": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_wmxw6T": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "Introducing",
+            "enable_line": true,
+            "text_size": 4
+          }
+        },
+        "heading_MBjfYg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rich text",
+            "text_size": 8
+          }
+        },
+        "text_aQK3br": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "button_YQdW4X": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "Shop all",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "Learn more",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--medium",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--neutral"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_wmxw6T",
+        "heading_MBjfYg",
+        "text_aQK3br",
+        "button_YQdW4X"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--bright bg--bright",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "section_icons_frDfP4": {
       "type": "section-icons",
       "blocks": {
@@ -689,6 +753,7 @@
     "logos",
     "section_collection_ChWeRi",
     "section_pair_hotspots_accordion_QpfeM3",
+    "section_richtext_QTEp3Y",
     "section_icons_frDfP4",
     "ss_testimonials_34_gTRmCn"
   ]
