@@ -301,11 +301,83 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "section_logos_FA4rfN": {
+      "type": "section-logos",
+      "blocks": {
+        "logo_image_RzBGwX": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/Marie_Claire_Magazine_logo_svg_1.svg",
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "logo_image_m4LMqP": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/forbes-logos-black-png-download-7_1.svg",
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "logo_image_RYVDi6": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/redesign-logo.svg",
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "logo_image_jWVGwF": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/get-the-gloss-logo_1.svg",
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "logo_image_Jh7q6y": {
+          "type": "logo_image",
+          "settings": {
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        }
+      },
+      "block_order": [
+        "logo_image_RzBGwX",
+        "logo_image_m4LMqP",
+        "logo_image_RYVDi6",
+        "logo_image_jWVGwF",
+        "logo_image_Jh7q6y"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "title": "",
+        "bg": "palette--dark bg--invert",
+        "enable_marquee": true,
+        "marquee_speed": 30,
+        "width": "wrapper--none",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "ss_product_reviews_Ww7AtP",
     "main",
-    "related"
+    "related",
+    "section_logos_FA4rfN"
   ]
 }
