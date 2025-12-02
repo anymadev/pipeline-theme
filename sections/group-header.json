@@ -142,6 +142,7 @@
       ],
       "settings": {
         "header_style": "logo_center",
+        "logo": "shopify://shop_images/alevia_logo.png",
         "logo_max_limit": 105,
         "logo_padding": 15,
         "logo_text_size": 5,
