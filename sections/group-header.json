@@ -45,7 +45,7 @@
       ],
       "settings": {
         "text_size": 4,
-        "layout": "marquee",
+        "layout": "slider",
         "speed": 2,
         "padding_top": 20,
         "padding_bottom": 20
