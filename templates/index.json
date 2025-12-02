@@ -67,13 +67,6 @@
             "richtext": "<p>90-day money-back guarantee</p>",
             "text_size": 4
           }
-        },
-        "image_ikb8Rb": {
-          "type": "image",
-          "settings": {
-            "image_max_limit": 300,
-            "image_link": ""
-          }
         }
       },
       "block_order": [
@@ -82,8 +75,7 @@
         "banner-text",
         "banner-button",
         "text_nFtwUW",
-        "text_Bw7nnM",
-        "image_ikb8Rb"
+        "text_Bw7nnM"
       ],
       "custom_css": [],
       "settings": {
