@@ -362,12 +362,67 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "section_double_GxygT7": {
+      "type": "section-double",
+      "blocks": {
+        "text_jfH4tr": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "No More Pain... Just Comfort",
+            "text": "<p>No child should deal with pain from flat feet, overpronation, or growing-phase strain. <strong>StepX™ insoles</strong> are made for kids and teens who struggle with flat feet, overpronation, Sever’s disease, or activity-related discomfort.</p><p>With soft heel cushioning, targeted arch support, and gentle alignment, they <strong>reduce pain</strong>, <strong>relieve pressure on joints</strong>, and <strong>guide the foot into a healthier position</strong>—so your child can move, play, and grow without discomfort.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "image_TVRJVH": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "Shop Now",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "text_jfH4tr",
+        "image_TVRJVH"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "ss_product_reviews_Ww7AtP",
     "main",
     "related",
-    "section_logos_FA4rfN"
+    "section_logos_FA4rfN",
+    "section_double_GxygT7"
   ]
 }
