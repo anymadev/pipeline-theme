@@ -26302,14 +26302,14 @@ a.siblings__more-link {
   background-repeat: repeat-x;
 }
 
-.aos-initialized [data-aos][data-aos][data-aos-order="5"],
-.aos-initialized [data-aos][data-aos][data-aos-order="6"] {
+.hero__kicker[data-aos-order="5"],
+.hero__kicker[data-aos-order="6"] {
   display: flex;
   align-items: center;
 }
 
-.aos-initialized [data-aos][data-aos][data-aos-order="5"]::before,
-.aos-initialized [data-aos][data-aos][data-aos-order="6"]::before {
+.hero__kicker[data-aos-order="5"]::before,
+.hero__kicker[data-aos-order="6"]::before {
   content: "";
   flex-shrink: 0;
   width: 20px;
