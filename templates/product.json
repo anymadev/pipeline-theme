@@ -9,6 +9,90 @@
  */
 {
   "sections": {
+    "ss_product_reviews_Ww7AtP": {
+      "type": "ss-product-reviews",
+      "blocks": {
+        "review_43j6WN": {
+          "type": "review",
+          "settings": {
+            "hide_image": false,
+            "author": "Lori",
+            "stars_count": 5,
+            "text": "Very pleased with this purchase! It's high-quality, easy to use, and reliable. Highly recommend for its efficiency and convenience."
+          }
+        },
+        "review_YBkedt": {
+          "type": "review",
+          "settings": {
+            "hide_image": false,
+            "author": "Jillian",
+            "stars_count": 5,
+            "text": "Extremely satisfied with this product! It offers excellent quality and simplicity. I recommend for its effectiveness and user-friendliness"
+          }
+        }
+      },
+      "block_order": [
+        "review_43j6WN",
+        "review_YBkedt"
+      ],
+      "name": "SS - Product Reviews",
+      "settings": {
+        "reviews_position": "above_buy",
+        "reviews_meta": "Reviews",
+        "reviews_radius": 0,
+        "review_padding_vertical": 8,
+        "review_padding_horizontal": 8,
+        "review_radius": 0,
+        "review_border_thickness": 0,
+        "image_width": 60,
+        "image_radius": 8,
+        "image_border_thickness": 0,
+        "image_ratio": "square",
+        "stars_icon": "shopify://shop_images/stella2_82bdfb9a-8fe8-4d12-8a54-821b7cc6065a.png",
+        "stars_size": 14,
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 14,
+        "author_size_mobile": 14,
+        "author_height": 130,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 12,
+        "text_size_mobile": 12,
+        "text_height": 130,
+        "text_mt": 4,
+        "arrow_size": 24,
+        "arrow_size_mobile": 24,
+        "arrow_icon_size": 16,
+        "arrow_icon_size_mobile": 16,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": true,
+        "review_bg_color": "#F3F3F3",
+        "review_border_color": "#000000",
+        "image_border_color": "#000000",
+        "author_color": "#000000",
+        "text_color": "#000000",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "arrow_bg_color": "#F3F3F3",
+        "arrow_bg_hover_color": "#DDDDDD",
+        "arrow_border_color": "#F3F3F3",
+        "arrow_border_hover_color": "#DDDDDD",
+        "stars_color": "#000000",
+        "background_color": "#F3F3F3",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 10,
+        "margin_bottom": 10,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
     "main": {
       "type": "product",
       "blocks": {
@@ -531,6 +615,7 @@
     }
   },
   "order": [
+    "ss_product_reviews_Ww7AtP",
     "main",
     "section_pair_hotspots_accordion_iEVahc",
     "section_before_after_MNBE86",
