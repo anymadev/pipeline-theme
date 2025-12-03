@@ -260,7 +260,7 @@
           "static": true,
           "settings": {
             "text_color": "text--neutral",
-            "bg_color": "#f7f0e8",
+            "bg_color": "#f7f7f7",
             "font_family": "accent",
             "font_weight": "normal",
             "text_size": 4
