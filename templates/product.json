@@ -437,6 +437,206 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "section_pair_hotspots_accordion_bthxT6": {
+      "type": "section-pair-hotspots-accordion",
+      "blocks": {
+        "hotspots": {
+          "type": "_pair-hotspots",
+          "static": true,
+          "settings": {},
+          "blocks": {
+            "pair_hotspots_hotspot_8p6MbN": {
+              "type": "_pair-hotspots-hotspot",
+              "settings": {
+                "top": 76,
+                "left": 73,
+                "top_mobile": 56,
+                "left_mobile": 47
+              },
+              "blocks": {}
+            },
+            "pair_hotspots_hotspot_xCNfYN": {
+              "type": "_pair-hotspots-hotspot",
+              "settings": {
+                "top": 55,
+                "left": 55,
+                "top_mobile": 70,
+                "left_mobile": 66
+              },
+              "blocks": {}
+            },
+            "pair_hotspots_hotspot_pq66Rc": {
+              "type": "_pair-hotspots-hotspot",
+              "settings": {
+                "top": 60,
+                "left": 75,
+                "top_mobile": 29,
+                "left_mobile": 34
+              },
+              "blocks": {}
+            },
+            "pair_hotspots_hotspot_FtLgRE": {
+              "type": "_pair-hotspots-hotspot",
+              "name": "Hotspot",
+              "settings": {
+                "top": 50,
+                "left": 50,
+                "top_mobile": 50,
+                "left_mobile": 67
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "pair_hotspots_hotspot_8p6MbN",
+            "pair_hotspots_hotspot_xCNfYN",
+            "pair_hotspots_hotspot_pq66Rc",
+            "pair_hotspots_hotspot_FtLgRE"
+          ]
+        },
+        "accordion": {
+          "type": "_pair-accordion",
+          "static": true,
+          "settings": {
+            "text_color": "text--neutral",
+            "bg_color": "",
+            "font_family": "accent",
+            "font_weight": "normal",
+            "text_size": 4
+          },
+          "blocks": {
+            "pair_accordion_item_3LH3gJ": {
+              "type": "_pair-accordion-item",
+              "settings": {
+                "title": "Overpronation Control",
+                "gap": "sm"
+              },
+              "blocks": {
+                "theme_text_JerGUM": {
+                  "type": "theme-text",
+                  "settings": {
+                    "text": "Helps realign growing feet by correcting inward rolling — reducing pain in the heels, knees, and back.",
+                    "font_family": "body",
+                    "text_size": 4,
+                    "max_width": 550
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "theme_text_JerGUM"
+              ]
+            },
+            "pair_accordion_item_4e66Nm": {
+              "type": "_pair-accordion-item",
+              "settings": {
+                "title": "Targeted Cushioning",
+                "gap": "sm"
+              },
+              "blocks": {
+                "theme_text_QaFqNr": {
+                  "type": "theme-text",
+                  "settings": {
+                    "text": "Shock-absorbing heel zone softens every step — protecting growing joints during school, sports, and everyday use.",
+                    "font_family": "body",
+                    "text_size": 4,
+                    "max_width": 550
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "theme_text_QaFqNr"
+              ]
+            },
+            "pair_accordion_item_6MmkyM": {
+              "type": "_pair-accordion-item",
+              "settings": {
+                "title": "Massaging Comfort Zones",
+                "gap": "sm"
+              },
+              "blocks": {
+                "theme_text_fhEPAN": {
+                  "type": "theme-text",
+                  "settings": {
+                    "text": "Built-in stimulation zones help improve circulation and reduce foot fatigue.",
+                    "font_family": "body",
+                    "text_size": 4,
+                    "max_width": 550
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "theme_text_fhEPAN"
+              ]
+            },
+            "pair_accordion_item_8L6CHT": {
+              "type": "_pair-accordion-item",
+              "settings": {
+                "title": "All-Day Support",
+                "gap": "sm"
+              },
+              "blocks": {
+                "theme_text_DB4QL9": {
+                  "type": "theme-text",
+                  "settings": {
+                    "text": "Designed for growing kids who spend long hours on their feet — providing structure, comfort, and support from morning to night.",
+                    "font_family": "body",
+                    "text_size": 4,
+                    "max_width": 550
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "theme_text_DB4QL9"
+              ]
+            },
+            "title": {
+              "type": "_pair-title",
+              "static": true,
+              "settings": {
+                "alignment": "center",
+                "gap": "sm"
+              },
+              "blocks": {
+                "theme_kicker_UQ4xWA": {
+                  "type": "theme-kicker",
+                  "settings": {
+                    "kicker": "Key Features",
+                    "enable_line": true,
+                    "text_size": 4
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "theme_kicker_UQ4xWA"
+              ]
+            }
+          },
+          "block_order": [
+            "pair_accordion_item_3LH3gJ",
+            "pair_accordion_item_4e66Nm",
+            "pair_accordion_item_6MmkyM",
+            "pair_accordion_item_8L6CHT"
+          ]
+        }
+      },
+      "name": "Pair: Hotspots & Text",
+      "settings": {
+        "order": "hotspots-first",
+        "duration": 5,
+        "dot_color": "palette--dark bg--invert",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -444,6 +644,7 @@
     "main",
     "related",
     "section_logos_FA4rfN",
-    "section_double_GxygT7"
+    "section_double_GxygT7",
+    "section_pair_hotspots_accordion_bthxT6"
   ]
 }
