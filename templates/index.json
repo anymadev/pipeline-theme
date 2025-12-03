@@ -370,7 +370,7 @@
                   "type": "theme-kicker",
                   "name": "Kicker",
                   "settings": {
-                    "kicker": "Introducing",
+                    "kicker": "Key Features",
                     "enable_line": true,
                     "text_size": 4
                   },
