@@ -804,6 +804,7 @@
         "table_row_GP3KPM",
         "table_row_AhnqnX"
       ],
+      "disabled": true,
       "name": "SS - Comparison Table #6",
       "settings": {
         "body_gap": 32,
