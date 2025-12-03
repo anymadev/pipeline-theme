@@ -860,7 +860,7 @@
         "table_radius": 0,
         "table_border_thickness": 1,
         "table_heading_image_size": 100,
-        "table_heading_image_size_mobile": 50,
+        "table_heading_image_size_mobile": 56,
         "first_heading": "alevia",
         "first_heading_image": "shopify://shop_images/alevia_logo_w.png",
         "second_heading": "Others",
