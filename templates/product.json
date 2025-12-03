@@ -187,7 +187,7 @@
           "type": "siblings",
           "settings": {
             "siblings_collection": "{{ product.metafields.theme.siblings.value }}",
-            "cutline": "",
+            "cutline": "{{ product.metafields.theme.cutline.value }}",
             "option_size_sibling": 50,
             "padding_bottom": 20
           }
