@@ -438,6 +438,31 @@
         "padding_bottom": 36
       }
     },
+    "section_richtext_ALXkVd": {
+      "type": "section-richtext",
+      "blocks": {
+        "heading_8RNhQc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Alevia's StepX Helps You",
+            "text_size": 10
+          }
+        }
+      },
+      "block_order": [
+        "heading_8RNhQc"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-center",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "section_pair_hotspots_accordion_bthxT6": {
       "type": "section-pair-hotspots-accordion",
       "blocks": {
@@ -645,6 +670,7 @@
     "related",
     "section_logos_FA4rfN",
     "section_double_GxygT7",
+    "section_richtext_ALXkVd",
     "section_pair_hotspots_accordion_bthxT6"
   ]
 }
