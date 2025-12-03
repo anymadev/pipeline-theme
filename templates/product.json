@@ -721,34 +721,10 @@
     "ss_comparison_table_6_Bjnab9": {
       "type": "ss-comparison-table-6",
       "blocks": {
-        "list_item_LrJRGU": {
-          "type": "list_item",
-          "settings": {
-            "text": "Fall asleep quicker"
-          }
-        },
-        "list_item_gyr4UC": {
-          "type": "list_item",
-          "settings": {
-            "text": "Relax & Restorative sleep"
-          }
-        },
-        "list_item_i3cAqm": {
-          "type": "list_item",
-          "settings": {
-            "text": "Wake up refreshed"
-          }
-        },
-        "list_item_aaGjkD": {
-          "type": "list_item",
-          "settings": {
-            "text": "Plant based"
-          }
-        },
         "table_row_TdzUBi": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Optimized Dosing",
+            "row_heading": "Overpronation Correction",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -762,7 +738,7 @@
         "table_row_Cmqe6E": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Plant Based",
+            "row_heading": "Targeted Heel Cushioning",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -776,7 +752,7 @@
         "table_row_wYEREP": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Low Sugar",
+            "row_heading": "Massaging Comfort Zones",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -790,7 +766,7 @@
         "table_row_GP3KPM": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Simple Ingredients",
+            "row_heading": "Instant Relief",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -804,21 +780,7 @@
         "table_row_AhnqnX": {
           "type": "table_row",
           "settings": {
-            "row_heading": "3rd Party Tested",
-            "first_column": "",
-            "first_column_icon": "check",
-            "second_column": "",
-            "second_column_icon": "cross",
-            "third_column": "",
-            "third_column_icon": "none",
-            "four_column": "",
-            "four_column_icon": "none"
-          }
-        },
-        "table_row_JV3BJz": {
-          "type": "table_row",
-          "settings": {
-            "row_heading": "Delicious Taste",
+            "row_heading": "60-Day Guarantee",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -831,16 +793,11 @@
         }
       },
       "block_order": [
-        "list_item_LrJRGU",
-        "list_item_gyr4UC",
-        "list_item_i3cAqm",
-        "list_item_aaGjkD",
         "table_row_TdzUBi",
         "table_row_Cmqe6E",
         "table_row_wYEREP",
         "table_row_GP3KPM",
-        "table_row_AhnqnX",
-        "table_row_JV3BJz"
+        "table_row_AhnqnX"
       ],
       "name": "SS - Comparison Table #6",
       "settings": {
