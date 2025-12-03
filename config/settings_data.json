@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "color_announcement_bg": "#424242",
+    "color_announcement_bg": "#000000",
     "color_announcement_text": "#ffffff",
     "color_header_bg": "#ffffff",
     "color_header_text": "#000000",
