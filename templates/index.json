@@ -392,7 +392,6 @@
       },
       "name": "Pair: Hotspots & Text",
       "settings": {
-        "image": "shopify://shop_images/Namnlos_design_-_2025-05-18T123718.638.webp",
         "order": "hotspots-first",
         "duration": 5,
         "dot_color": "palette--light bg--neutral",
