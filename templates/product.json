@@ -460,7 +460,7 @@
         "content_width": 2000,
         "width": "wrapper",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "section_pair_hotspots_accordion_bthxT6": {
