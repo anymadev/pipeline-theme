@@ -48,7 +48,6 @@
         "image_radius": 8,
         "image_border_thickness": 0,
         "image_ratio": "square",
-        "stars_icon": "shopify://shop_images/stella2_82bdfb9a-8fe8-4d12-8a54-821b7cc6065a.png",
         "stars_size": 14,
         "author_custom": false,
         "author_font": "josefin_sans_n4",
@@ -68,19 +67,19 @@
         "arrow_border_thickness": 0,
         "arrow_show_desktop": true,
         "arrow_show_mobile": true,
-        "review_bg_color": "#F3F3F3",
+        "review_bg_color": "#f3f3f3",
         "review_border_color": "#000000",
         "image_border_color": "#000000",
         "author_color": "#000000",
         "text_color": "#000000",
         "arrow_color": "#000000",
         "arrow_hover_color": "#000000",
-        "arrow_bg_color": "#F3F3F3",
-        "arrow_bg_hover_color": "#DDDDDD",
-        "arrow_border_color": "#F3F3F3",
-        "arrow_border_hover_color": "#DDDDDD",
+        "arrow_bg_color": "#f3f3f3",
+        "arrow_bg_hover_color": "#dddddd",
+        "arrow_border_color": "#f3f3f3",
+        "arrow_border_hover_color": "#dddddd",
         "stars_color": "#ff4b00",
-        "background_color": "#F3F3F3",
+        "background_color": "#f3f3f3",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 10,
@@ -96,31 +95,6 @@
     "main": {
       "type": "product",
       "blocks": {
-        "section_store_block_review_summary_megifp": {
-          "type": "shopify://apps/section-store/blocks/block-review-summary/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
-          "settings": {
-            "stars_count": 4.5,
-            "stars_size": 17,
-            "stars_gap": 2,
-            "stars_color": "#ffffff",
-            "stars_bg_color": "#00b67a",
-            "stars_bg_half_color": "#dddddd",
-            "first_text": "",
-            "first_text_size": 15,
-            "first_text_color": "#000000",
-            "second_text": "<p><strong>4.5/5 </strong>Excellent<strong> 10,000+ </strong>reviews</p>",
-            "second_text_size": 13,
-            "second_text_color": "#000000",
-            "border": "none",
-            "border_thickness": 1,
-            "border_color": "#000000",
-            "radius": 0,
-            "background": "",
-            "background_gradient": "",
-            "padding_vertical": 16,
-            "padding_horizontal": 0
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -246,7 +220,6 @@
         }
       },
       "block_order": [
-        "section_store_block_review_summary_megifp",
         "title",
         "text_8BydzC",
         "liquid_eJBhp6",
@@ -386,9 +359,9 @@
         "image_TVRJVH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/e95a7d037abc469385125693f83cb416-ezgif.com-video-to-gif-converter.gif",
+            "image": "shopify://shop_images/H_900x-ezgif.com-webp-to-gif-converter.gif",
             "overlay_opacity": 15,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "enable_overlay_text": false,
             "kicker": "",
             "title": "",
