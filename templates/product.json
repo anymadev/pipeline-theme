@@ -158,6 +158,24 @@
             "padding_bottom": 20
           }
         },
+        "siblings_qrYKNb": {
+          "type": "siblings",
+          "settings": {
+            "siblings_collection": "",
+            "cutline": "",
+            "option_size_sibling": 50,
+            "padding_bottom": 20
+          }
+        },
+        "variant_selectors_9TPC8X": {
+          "type": "variant-selectors",
+          "settings": {
+            "option_size_swatch": 34,
+            "option_size_radio": 50,
+            "option_space": 30,
+            "padding_bottom": 30
+          }
+        },
         "buttons": {
           "type": "add-buttons",
           "settings": {
@@ -228,6 +246,8 @@
         "icon_hGK4zh",
         "icon_afR4Ae",
         "icon_NrJNQJ",
+        "siblings_qrYKNb",
+        "variant_selectors_9TPC8X",
         "buttons",
         "liquid_GbHDtg",
         "liquid_xmadpJ",
