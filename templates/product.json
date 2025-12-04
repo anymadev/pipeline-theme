@@ -464,30 +464,35 @@
         "image_eqcjDR": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/1_94426116-9c78-47f4-9273-b6b7c1384bf3.png",
             "url": ""
           }
         },
         "image_NyHfcP": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/2.png",
             "url": ""
           }
         },
         "image_34dENq": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/3_20.webp",
             "url": ""
           }
         },
         "image_VrhUKH": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/3.png",
             "url": ""
           }
         },
         "image_VriVYD": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Namnlos_design_-_2025-08-18T101348.510_47dd875c-4ce7-40cc-8390-38237b097d6d.webp",
             "url": ""
           }
         }
@@ -514,11 +519,11 @@
         "slider_mt": 32,
         "slider_direction": "left",
         "pause_hover": false,
-        "image_width_desktop": 300,
-        "image_width_mobile": 120,
+        "image_width_desktop": 400,
+        "image_width_mobile": 300,
         "image_height_desktop": 400,
-        "image_height_mobile": 200,
-        "image_radius": 10,
+        "image_height_mobile": 300,
+        "image_radius": 0,
         "use_content": true,
         "content_liquid_glass": false,
         "content_liquid_hover": true,
@@ -529,7 +534,7 @@
         "content_padding_vertical": 30,
         "content_padding_horizontal": 30,
         "content_distance": 60,
-        "content_radius": 10,
+        "content_radius": 0,
         "content_border_thickness": 0,
         "use_shadow": true,
         "text": "<p>100.000+ families love our product</p>",
