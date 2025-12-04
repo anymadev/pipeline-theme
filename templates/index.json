@@ -84,7 +84,7 @@
       "settings": {
         "image": "shopify://shop_images/active-teenagers-467385302_1200x_4fddabe7-2c8a-402b-a7e8-48044ed4e05b.webp",
         "height": "use_screen_two_thirds",
-        "overlay_opacity": 30,
+        "overlay_opacity": 45,
         "overlay_color": "#000000",
         "enable_overlay_text": false,
         "preload_image": true,
