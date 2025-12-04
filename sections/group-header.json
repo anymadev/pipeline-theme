@@ -54,16 +54,6 @@
     "header": {
       "type": "header",
       "blocks": {
-        "collection_K6cFA8": {
-          "type": "collection",
-          "settings": {
-            "position": "2",
-            "collection": "",
-            "limit": 4,
-            "wide_element": false,
-            "display": "all"
-          }
-        },
         "header-block-toolbar": {
           "type": "toolbar",
           "disabled": true,
@@ -134,7 +124,6 @@
         }
       },
       "block_order": [
-        "collection_K6cFA8",
         "header-block-toolbar",
         "header-block-image-1",
         "header-block-image-2",
