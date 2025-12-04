@@ -17,16 +17,16 @@
         "linklist-1": {
           "type": "linklist",
           "settings": {
-            "linklist": "main-menu",
-            "title": "",
+            "linklist": "footer",
+            "title": "Legal Menu",
             "accordion_default": ""
           }
         },
         "text-3": {
           "type": "text",
           "settings": {
-            "title": "Our Promise",
-            "text": "<p>Experience the perfect blend of comfort and style with our premium products. Meticulously crafted with attention to detail, each item is designed to enhance your daily life. Discover quality that speaks for itself and elevate your experience with our thoughtfully designed collection.</p>",
+            "title": "Our Mission",
+            "text": "<p>At Alevia™, we believe no child should grow up in pain. Our insoles are made for kids and teens dealing with heel pain, overpronation, and strain from growth or activity.</p>",
             "text_size": 4,
             "accordion_default": ""
           }
