@@ -165,25 +165,38 @@
         "review_TaqEHK": {
           "type": "review",
           "settings": {
+            "image": "shopify://shop_images/166657849-father-and-son-bonding-happy-dad-embracing-boy-posing-and-smiling-to-camera-sitting-on-couch-at.jpg",
             "hide_image": false,
-            "author": "Lori",
+            "author": "James L.",
             "stars_count": 5,
-            "text": "Very pleased with this purchase! It's high-quality, easy to use, and reliable. Highly recommend for its efficiency and convenience."
+            "text": "My son walks better already. Less pain in just a few days."
           }
         },
         "review_K8f4t8": {
           "type": "review",
           "settings": {
+            "image": "shopify://shop_images/istockphoto-1349701417-612x612.jpg",
             "hide_image": false,
-            "author": "Jillian",
+            "author": "Michael R.",
             "stars_count": 5,
-            "text": "Extremely satisfied with this product! It offers excellent quality and simplicity. I recommend for its effectiveness and user-friendliness"
+            "text": "Great support. No more inward rolling and he’s more active now."
+          }
+        },
+        "review_QJgpWd": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/padre-e-figlio-che-si-divertono-nel-parco_23-2148684657.avif",
+            "hide_image": false,
+            "author": "Daniel K.",
+            "stars_count": 5,
+            "text": "Heel pain gone. Honestly didn’t expect results this fast."
           }
         }
       },
       "block_order": [
         "review_TaqEHK",
-        "review_K8f4t8"
+        "review_K8f4t8",
+        "review_QJgpWd"
       ],
       "name": "SS - Product Reviews",
       "settings": {
@@ -280,17 +293,17 @@
             "padding_bottom": 20
           }
         },
-        "liquid_NQU6jL": {
-          "type": "liquid",
-          "settings": {
-            "custom_liquid": "<div id='ss-reviews'></div>"
-          }
-        },
         "text_4pqBza": {
           "type": "text",
           "settings": {
             "title": "<p>Give your child the support their growing feet need. <strong>StepX™ Insoles</strong> gently <strong>correct flat feet and overpronation</strong>, <strong>reduce heel and knee discomfort</strong>, and provide <strong>soft cushioning</strong> for everyday comfort. A natural way to improve <strong>alignment</strong>, <strong>stability</strong>, and confidence with every step.</p>",
             "padding_bottom": 20
+          }
+        },
+        "liquid_NQU6jL": {
+          "type": "liquid",
+          "settings": {
+            "custom_liquid": "<div id='ss-reviews'></div>"
           }
         },
         "icon_cKYrx4": {
@@ -407,8 +420,8 @@
       "block_order": [
         "section_store_block_review_summary_xVWdp4",
         "title_HNaVtM",
-        "liquid_NQU6jL",
         "text_4pqBza",
+        "liquid_NQU6jL",
         "icon_cKYrx4",
         "icon_AqKiCJ",
         "icon_gPAReq",
