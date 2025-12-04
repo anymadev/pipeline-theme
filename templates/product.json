@@ -224,6 +224,28 @@
             "product": "{{product}}"
           }
         },
+        "section_store_block_pulse_badge_JpywdF": {
+          "type": "shopify://apps/section-store/blocks/block-pulse-badge/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
+          "settings": {
+            "content_align": "left",
+            "use_indicator": false,
+            "pulse_icon_size": 12,
+            "pulse_icon_color": "#e32c2b",
+            "text": "<p>Low stock</p>",
+            "text_size": 15,
+            "auto_text_weight": "normal",
+            "text_color": "#e32c2b",
+            "border": "none",
+            "border_thickness": 1,
+            "border_color": "#000000",
+            "radius": 0,
+            "background": "",
+            "padding_top": 0,
+            "padding_bottom": 16,
+            "padding_left": 0,
+            "padding_right": 0
+          }
+        },
         "buttons": {
           "type": "add-buttons",
           "settings": {
@@ -235,6 +257,7 @@
         "liquid_GbHDtg": {
           "type": "liquid",
           "name": "Liquid Sell-Out",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_DJdcKA\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <style>\n  @keyframes blink {\n    0% {\n      opacity: 1;\n    }\n    50% {\n      opacity: 0.3;\n    }\n    100% {\n      opacity: 1;\n    }\n  }\n\n  @media (max-width: 768px) {\n    div[style*='font-size: 15px'] {\n      font-size: 12px !important;\n    }\n  }\n</style>\n\n<div style=\"width: 100%; margin-bottom: 16px; font-size: 15px; line-height: 18px; color: #000; letter-spacing: .2px; text-align: center;\">\n  <span style=\"color: #000;\">Sell Out Risk: </span>\n  <span style=\"color: #ff1616; font-weight: bold;\">HIGH</span>\n  <div style=\"width: 50px; height: 15px; display: inline-block; vertical-align: middle; position: relative; border: 1px solid #ff0000; margin: -2px 0 0 5px; padding: 1px;\">\n    <div style=\"width: 10%; height: 100%; background-color: #ff0000; animation: blink 1.5s ease-in-out infinite;\"></div>\n  </div>\n</div>\n            </div></div>"
           }
@@ -297,6 +320,7 @@
         "siblings_qrYKNb",
         "variant_selectors_9TPC8X",
         "kaching_bundles_app_block_aaEnNq",
+        "section_store_block_pulse_badge_JpywdF",
         "buttons",
         "liquid_GbHDtg",
         "liquid_xmadpJ",
