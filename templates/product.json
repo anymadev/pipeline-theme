@@ -659,6 +659,7 @@
       },
       "name": "Pair: Hotspots & Text",
       "settings": {
+        "image_mobile": "shopify://shop_images/h1.png",
         "order": "hotspots-first",
         "duration": 5,
         "dot_color": "palette--light bg--accent",
