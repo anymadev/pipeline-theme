@@ -160,6 +160,7 @@
           "type": "icon",
           "settings": {
             "icon_name": "icon-star-rating",
+            "image": "shopify://shop_images/check_1.svg",
             "icon_size": 16,
             "icon_color": "#ff4b00",
             "text": "<p>Corrects flat feet and overpronation</p>",
@@ -170,6 +171,7 @@
           "type": "icon",
           "settings": {
             "icon_name": "icon-star-rating",
+            "image": "shopify://shop_images/check_1.svg",
             "icon_size": 16,
             "icon_color": "#ff4b00",
             "text": "<p>Relieves knee, heel, and back discomfort</p>",
@@ -180,6 +182,7 @@
           "type": "icon",
           "settings": {
             "icon_name": "icon-star-rating",
+            "image": "shopify://shop_images/check_1.svg",
             "icon_size": 16,
             "icon_color": "#ff4b00",
             "text": "<p>Soft cushioning for growing feet</p>",
@@ -190,6 +193,7 @@
           "type": "icon",
           "settings": {
             "icon_name": "icon-star-rating",
+            "image": "shopify://shop_images/check_1.svg",
             "icon_size": 16,
             "icon_color": "#ff4b00",
             "text": "<p>Free premium shipping</p>",
