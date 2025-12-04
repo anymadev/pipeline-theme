@@ -506,7 +506,7 @@
       ],
       "name": "SS - Scrolling images",
       "settings": {
-        "heading": "<h2>100,000+ Families Trust Alevia™</h2>",
+        "heading": "",
         "heading_custom": true,
         "heading_font": "figtree_n6",
         "heading_size": 38,
@@ -524,7 +524,7 @@
         "image_height_desktop": 400,
         "image_height_mobile": 300,
         "image_radius": 0,
-        "use_content": false,
+        "use_content": true,
         "content_liquid_glass": false,
         "content_liquid_hover": true,
         "content_position": "center",
