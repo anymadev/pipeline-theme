@@ -58,7 +58,7 @@
         "review_radius": 0,
         "review_border_thickness": 0,
         "image_width": 60,
-        "image_radius": 0,
+        "image_radius": 12,
         "image_border_thickness": 0,
         "image_ratio": "square",
         "stars_size": 14,
