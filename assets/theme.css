@@ -26319,3 +26319,7 @@ a.siblings__more-link {
   background-size: contain;
   background-repeat: no-repeat;
 }
+
+.product__page__cutline {
+  display: none;
+}
