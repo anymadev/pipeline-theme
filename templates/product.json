@@ -1055,90 +1055,6 @@
         "lazy": true
       }
     },
-    "section_faq_Ay6jYk": {
-      "type": "section-faq",
-      "blocks": {
-        "text_GRzcUz": {
-          "type": "text",
-          "settings": {
-            "title": "Who are StepX™ insoles designed for?",
-            "content": "<p>StepX™ is designed for growing kids and teens — typically 7 to 16 years old — but can be used by anyone in need of extra comfort and support. Whether for school, sports, or everyday wear, they’re built to reduce pain and fatigue from growth, overpronation, and activity.</p>"
-          }
-        },
-        "text_Ae3dkc": {
-          "type": "text",
-          "settings": {
-            "title": "What makes StepX™ insoles different from others?",
-            "content": "<p>StepX™ insoles are specially designed for growing feet — combining heel cushioning, arch support, and gentle alignment correction to reduce pain from overpronation, Severs disease, and everyday strain.<br/><br/>Unlike regular insoles, they’re built to support kids and teens during long school days, sports, and growth spurts — without adding bulk or discomfort.</p>"
-          }
-        },
-        "text_GfCDcc": {
-          "type": "text",
-          "settings": {
-            "title": "What size should I buy and how do I clean them?",
-            "content": "<p>Choose the size that matches the shoe size — no need to size up. Edges can be trimmed for a perfect fit. To clean, simply wipe with a damp cloth and mild soap. Avoid machine washing. You can also check the size guide by clicking <a href=\"https://getfootstr.com/pages/size-guide\" title=\"Size guide\">here</a></p>"
-          }
-        },
-        "text_Rhd66i": {
-          "type": "text",
-          "settings": {
-            "title": "How long do StepX™ insoles last?",
-            "content": "<p>With regular use, StepX™ insoles typically last 6–12 months, depending on activity level and growth. We recommend replacing them within that timeframe, as the cushioning and support naturally wear down over time — which can reduce their effectiveness and allow pain or discomfort to return.</p>"
-          }
-        },
-        "text_CLaLHP": {
-          "type": "text",
-          "settings": {
-            "title": "Are they approved or recommended by doctors?",
-            "content": "<p>Yes. StepX™ was developed in collaboration with medical professionals and is based on proven orthotic principles used to treat pediatric foot conditions.</p>"
-          }
-        },
-        "text_JWnfE9": {
-          "type": "text",
-          "settings": {
-            "title": "What kind of pain do StepX™ insoles help with?",
-            "content": "<p>StepX™ insoles are designed to relieve common pain points in growing kids and teens — including heel pain, sore arches, aching knees, and even discomfort in the hips or lower back.<br/><br/>Whether the pain is caused by overpronation, severs disease, flat feet, or poor alignment during growth, StepX™ helps by improving posture and distributing pressure more evenly.<br/><br/>In fact, 95% of users report noticeable pain relief within the first 7 days — and many continue using them simply because they’re much more comfortable than regular insoles.</p>"
-          }
-        },
-        "text_t8iTjT": {
-          "type": "text",
-          "settings": {
-            "title": "Are StepX™ insoles suitable for flat feet or high arches?",
-            "content": "<p>Yes, StepX™ insoles are designed to support both flat and high arches by promoting healthy foot posture and even weight distribution — especially important during growth phases when alignment issues can lead to discomfort or pain.</p>"
-          }
-        },
-        "text_HJVPyK": {
-          "type": "text",
-          "settings": {
-            "title": "Do you offer a guarantee?",
-            "content": "<p>Yes! Try them for 90 days. If you’re not satisfied, we offer a full refund – no questions asked.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_GRzcUz",
-        "text_Ae3dkc",
-        "text_GfCDcc",
-        "text_Rhd66i",
-        "text_CLaLHP",
-        "text_JWnfE9",
-        "text_t8iTjT",
-        "text_HJVPyK"
-      ],
-      "name": "Accordion group",
-      "settings": {
-        "title": "FREQUENTLY ASKED QUESTIONS",
-        "title_align": "text-left",
-        "title_size": 4,
-        "heading_size": 5,
-        "text_size": 5,
-        "text_color": "text--neutral",
-        "bg": "palette--light bg--neutral",
-        "width": "wrapper",
-        "padding_top": 76,
-        "padding_bottom": 36
-      }
-    },
     "ss_testimonials_34_K7XBYy": {
       "type": "ss-testimonials-34",
       "blocks": {
@@ -1444,6 +1360,90 @@
         "section_radius": 0,
         "lazy": true
       }
+    },
+    "section_faq_Ay6jYk": {
+      "type": "section-faq",
+      "blocks": {
+        "text_GRzcUz": {
+          "type": "text",
+          "settings": {
+            "title": "Who are StepX™ insoles designed for?",
+            "content": "<p>StepX™ is designed for growing kids and teens — typically 7 to 16 years old — but can be used by anyone in need of extra comfort and support. Whether for school, sports, or everyday wear, they’re built to reduce pain and fatigue from growth, overpronation, and activity.</p>"
+          }
+        },
+        "text_Ae3dkc": {
+          "type": "text",
+          "settings": {
+            "title": "What makes StepX™ insoles different from others?",
+            "content": "<p>StepX™ insoles are specially designed for growing feet — combining heel cushioning, arch support, and gentle alignment correction to reduce pain from overpronation, Severs disease, and everyday strain.<br/><br/>Unlike regular insoles, they’re built to support kids and teens during long school days, sports, and growth spurts — without adding bulk or discomfort.</p>"
+          }
+        },
+        "text_GfCDcc": {
+          "type": "text",
+          "settings": {
+            "title": "What size should I buy and how do I clean them?",
+            "content": "<p>Choose the size that matches the shoe size — no need to size up. Edges can be trimmed for a perfect fit. To clean, simply wipe with a damp cloth and mild soap. Avoid machine washing. You can also check the size guide by clicking <a href=\"https://getfootstr.com/pages/size-guide\" title=\"Size guide\">here</a></p>"
+          }
+        },
+        "text_Rhd66i": {
+          "type": "text",
+          "settings": {
+            "title": "How long do StepX™ insoles last?",
+            "content": "<p>With regular use, StepX™ insoles typically last 6–12 months, depending on activity level and growth. We recommend replacing them within that timeframe, as the cushioning and support naturally wear down over time — which can reduce their effectiveness and allow pain or discomfort to return.</p>"
+          }
+        },
+        "text_CLaLHP": {
+          "type": "text",
+          "settings": {
+            "title": "Are they approved or recommended by doctors?",
+            "content": "<p>Yes. StepX™ was developed in collaboration with medical professionals and is based on proven orthotic principles used to treat pediatric foot conditions.</p>"
+          }
+        },
+        "text_JWnfE9": {
+          "type": "text",
+          "settings": {
+            "title": "What kind of pain do StepX™ insoles help with?",
+            "content": "<p>StepX™ insoles are designed to relieve common pain points in growing kids and teens — including heel pain, sore arches, aching knees, and even discomfort in the hips or lower back.<br/><br/>Whether the pain is caused by overpronation, severs disease, flat feet, or poor alignment during growth, StepX™ helps by improving posture and distributing pressure more evenly.<br/><br/>In fact, 95% of users report noticeable pain relief within the first 7 days — and many continue using them simply because they’re much more comfortable than regular insoles.</p>"
+          }
+        },
+        "text_t8iTjT": {
+          "type": "text",
+          "settings": {
+            "title": "Are StepX™ insoles suitable for flat feet or high arches?",
+            "content": "<p>Yes, StepX™ insoles are designed to support both flat and high arches by promoting healthy foot posture and even weight distribution — especially important during growth phases when alignment issues can lead to discomfort or pain.</p>"
+          }
+        },
+        "text_HJVPyK": {
+          "type": "text",
+          "settings": {
+            "title": "Do you offer a guarantee?",
+            "content": "<p>Yes! Try them for 90 days. If you’re not satisfied, we offer a full refund – no questions asked.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_GRzcUz",
+        "text_Ae3dkc",
+        "text_GfCDcc",
+        "text_Rhd66i",
+        "text_CLaLHP",
+        "text_JWnfE9",
+        "text_t8iTjT",
+        "text_HJVPyK"
+      ],
+      "name": "Accordion group",
+      "settings": {
+        "title": "FREQUENTLY ASKED QUESTIONS",
+        "title_align": "text-left",
+        "title_size": 4,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 76,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -1457,7 +1457,7 @@
     "section_pair_hotspots_accordion_bthxT6",
     "section_double_zgRnQy",
     "ss_comparison_table_6_Bjnab9",
-    "section_faq_Ay6jYk",
-    "ss_testimonials_34_K7XBYy"
+    "ss_testimonials_34_K7XBYy",
+    "section_faq_Ay6jYk"
   ]
 }
