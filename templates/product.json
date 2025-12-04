@@ -304,8 +304,7 @@
         "upsell_fuXWd1s"
       ],
       "custom_css": [
-        ".product__block__icon p {font-weight: 400 !important; letter-spacing: normal !important; text-transform: none !important; font-size: 13.5px !important;}",
-        ".product__page__cutline {}"
+        ".product__block__icon p {font-weight: 400 !important; letter-spacing: normal !important; text-transform: none !important; font-size: 13.5px !important;}"
       ],
       "settings": {
         "layout": "thumbnails-below@slides",
