@@ -159,19 +159,189 @@
         "padding_bottom": 36
       }
     },
-    "section_collection_ChWeRi": {
-      "type": "section-collection",
-      "name": "Product grid",
+    "section_product_im6PtV": {
+      "type": "section-product",
+      "blocks": {
+        "section_store_block_review_summary_xVWdp4": {
+          "type": "shopify://apps/section-store/blocks/block-review-summary/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
+          "settings": {
+            "stars_count": 4.5,
+            "stars_size": 17,
+            "stars_gap": 2,
+            "stars_color": "#FFFFFF",
+            "stars_bg_color": "#00B67A",
+            "stars_bg_half_color": "#DDDDDD",
+            "first_text": "",
+            "first_text_size": 15,
+            "first_text_color": "#000000",
+            "second_text": "<p><strong>4.5/5 </strong>Excellent<strong> 10,000+ </strong>reviews</p>",
+            "second_text_size": 13,
+            "second_text_color": "#000000",
+            "border": "none",
+            "border_thickness": 1,
+            "border_color": "#000000",
+            "radius": 0,
+            "background": "",
+            "background_gradient": "",
+            "padding_vertical": 16,
+            "padding_horizontal": 0
+          }
+        },
+        "title_HNaVtM": {
+          "type": "title",
+          "settings": {
+            "text_size": 9,
+            "product_show_cutline": true,
+            "show_rating": true,
+            "show_rating_count": false,
+            "padding_bottom": 20
+          }
+        },
+        "liquid_NQU6jL": {
+          "type": "liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        },
+        "text_4pqBza": {
+          "type": "text",
+          "settings": {
+            "title": "<p>Give your child the support their growing feet need. <strong>StepX™ Insoles</strong> gently <strong>correct flat feet and overpronation</strong>, <strong>reduce heel and knee discomfort</strong>, and provide <strong>soft cushioning</strong> for everyday comfort. A natural way to improve <strong>alignment</strong>, <strong>stability</strong>, and confidence with every step.</p>",
+            "padding_bottom": 20
+          }
+        },
+        "icon_cKYrx4": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-award",
+            "icon_size": 16,
+            "icon_color": "#ff4b00",
+            "text": "<p>Corrects flat feet and overpronation</p>",
+            "padding_bottom": 8
+          }
+        },
+        "icon_AqKiCJ": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-award",
+            "icon_size": 16,
+            "icon_color": "#ff4b00",
+            "text": "<p>Relieves knee, heel, and back discomfort</p>",
+            "padding_bottom": 8
+          }
+        },
+        "icon_gPAReq": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-award",
+            "icon_size": 16,
+            "icon_color": "#ff4b00",
+            "text": "<p>Soft cushioning for growing feet</p>",
+            "padding_bottom": 8
+          }
+        },
+        "icon_bAFM8Q": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-award",
+            "icon_size": 16,
+            "icon_color": "#ff4b00",
+            "text": "<p>Free premium shipping</p>",
+            "padding_bottom": 20
+          }
+        },
+        "siblings_8DreDb": {
+          "type": "siblings",
+          "settings": {
+            "siblings_collection": "{{ section.settings.home_product.metafields.theme.siblings.value }}",
+            "cutline": "{{ section.settings.home_product.metafields.theme.cutline.value }}",
+            "option_size_sibling": 50,
+            "padding_bottom": 20
+          }
+        },
+        "variant_selectors_qRY9yW": {
+          "type": "variant-selectors",
+          "settings": {
+            "option_size_swatch": 34,
+            "option_size_radio": 50,
+            "option_space": 30,
+            "padding_bottom": 20
+          }
+        },
+        "kaching_bundles_app_block_yNgkzN": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.home_product}}"
+          }
+        },
+        "add_buttons_4Kjqn7": {
+          "type": "add-buttons",
+          "settings": {
+            "enable_payment_button": false,
+            "enable_gift_card_recipient": false,
+            "padding_bottom": 20
+          }
+        },
+        "description_DtmWHh": {
+          "type": "description",
+          "settings": {
+            "style": "accordions",
+            "enable_description": true,
+            "read_more": true,
+            "icon_description": "",
+            "description_expanded": true,
+            "title_1": "Information",
+            "icon_name_1": "",
+            "raw_content_1": "<p>This content type will accept <strong>rich text</strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.</p>",
+            "title_2": "Details",
+            "icon_name_2": "",
+            "raw_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.</p>",
+            "title_3": "",
+            "icon_name_3": "",
+            "raw_content_3": "",
+            "title_4": "",
+            "icon_name_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "icon_name_5": "",
+            "raw_content_5": "",
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "section_store_block_review_summary_xVWdp4",
+        "title_HNaVtM",
+        "liquid_NQU6jL",
+        "text_4pqBza",
+        "icon_cKYrx4",
+        "icon_AqKiCJ",
+        "icon_gPAReq",
+        "icon_bAFM8Q",
+        "siblings_8DreDb",
+        "variant_selectors_qRY9yW",
+        "kaching_bundles_app_block_yNgkzN",
+        "add_buttons_4Kjqn7",
+        "description_DtmWHh"
+      ],
+      "name": "Featured product",
       "settings": {
         "title": "",
-        "collection": "frontpage",
-        "grid": 3,
-        "rows": 1,
-        "grid_mobile": "2",
+        "home_product": "stepx™-black-align-cushion-insoles",
+        "layout": "thumbnails-below@slides",
+        "image_width": "wide",
+        "image_spacing": 10,
+        "align": "left",
         "bg": "palette--light bg--neutral",
-        "show_view_all": false,
+        "mobile_layout": "carousel",
+        "enable_video_looping": true,
+        "zoom_enable": true,
+        "alt_text_enable": true,
+        "alt_text_icon": "icon-ruler",
+        "product_breadcrumbs_enable": false,
+        "product_breadcrumbs_list": [],
         "width": "wrapper",
-        "padding_top": 36,
+        "padding_top": 24,
         "padding_bottom": 36
       }
     },
@@ -754,7 +924,7 @@
   "order": [
     "hero",
     "logos",
-    "section_collection_ChWeRi",
+    "section_product_im6PtV",
     "section_richtext_MiN87V",
     "section_pair_hotspots_accordion_QpfeM3",
     "section_icons_frDfP4",
