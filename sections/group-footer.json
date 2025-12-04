@@ -34,7 +34,7 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "show_image": true,
+            "show_image": false,
             "wh_ratio": 2,
             "newsletter_enable": true,
             "recaptcha_enabled": false,
