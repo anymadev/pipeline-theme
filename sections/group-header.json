@@ -141,7 +141,7 @@
         "header-block-image-3"
       ],
       "settings": {
-        "header_style": "logo_center",
+        "header_style": "drawer",
         "logo": "shopify://shop_images/alevia_logo.png",
         "logo_max_limit": 90,
         "logo_padding": 30,
