@@ -201,6 +201,12 @@
             "padding_bottom": 30
           }
         },
+        "kaching_bundles_app_block_aaEnNq": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "buttons": {
           "type": "add-buttons",
           "settings": {
@@ -274,6 +280,7 @@
         "icon_NrJNQJ",
         "siblings_qrYKNb",
         "variant_selectors_9TPC8X",
+        "kaching_bundles_app_block_aaEnNq",
         "buttons",
         "liquid_GbHDtg",
         "liquid_xmadpJ",
