@@ -1199,11 +1199,11 @@
           "type": "testimonial",
           "settings": {
             "stars_count": 5,
-            "title": "Title",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "author": "Author's name",
-            "product": "",
-            "custom_title": "Product title",
+            "title": "Finally real relief for my son",
+            "text": "<p>We tried several insoles before, but nothing really helped. With StepX he immediately felt more stable, and the heel pain reduced within a week. He’s running again without complaining.</p>",
+            "author": "Ethan M.",
+            "product": "stepx™-black-align-cushion-insoles",
+            "custom_title": "StepX™ - Align & Cushion Insoles",
             "url": ""
           }
         },
@@ -1212,7 +1212,7 @@
           "settings": {
             "stars_count": 5,
             "title": "Title",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "text": "<p>We tried several insoles before, but nothing really helped. With StepX he immediately felt more stable, and the heel pain reduced within a week. He’s running again without complaining.</p>",
             "author": "Author's name",
             "product": "",
             "custom_title": "Product title",
@@ -1438,7 +1438,7 @@
         "product_button_border_thickness": 0,
         "product_button_mt": 10,
         "product_button_mt_mobile": 10,
-        "product_button_style": "outline",
+        "product_button_style": "outline_arrow",
         "slide_stars_color": "#ff4b00",
         "slide_title_color": "#000000",
         "text_color": "#000000",
