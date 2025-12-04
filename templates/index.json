@@ -237,12 +237,12 @@
         "text_color": "#000000",
         "arrow_color": "#000000",
         "arrow_hover_color": "#000000",
-        "arrow_bg_color": "#F3F3F3",
-        "arrow_bg_hover_color": "#DDDDDD",
-        "arrow_border_color": "#F3F3F3",
-        "arrow_border_hover_color": "#DDDDDD",
+        "arrow_bg_color": "#f3f3f3",
+        "arrow_bg_hover_color": "#dddddd",
+        "arrow_border_color": "#f3f3f3",
+        "arrow_border_hover_color": "#dddddd",
         "stars_color": "#ff4b00",
-        "background_color": "#F3F3F3",
+        "background_color": "#f3f3f3",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 10,
@@ -264,9 +264,9 @@
             "stars_count": 4.5,
             "stars_size": 17,
             "stars_gap": 2,
-            "stars_color": "#FFFFFF",
-            "stars_bg_color": "#00B67A",
-            "stars_bg_half_color": "#DDDDDD",
+            "stars_color": "#ffffff",
+            "stars_bg_color": "#00b67a",
+            "stars_bg_half_color": "#dddddd",
             "first_text": "",
             "first_text_size": 15,
             "first_text_color": "#000000",
@@ -840,11 +840,11 @@
           "type": "testimonial",
           "settings": {
             "stars_count": 5,
-            "title": "Reviews 1",
-            "text": "<p>Our chiropractor said these probably saved us a dozen visits. Way better than the custom ones we tried before.</p>",
-            "author": "Anna L.",
-            "product": "posturereset™solette-ortopediche",
-            "custom_title": "XXX",
+            "title": "Finally real relief for my son",
+            "text": "<p>We tried several insoles before, but nothing really helped. With StepX he immediately felt more stable, and the heel pain reduced within a week. He’s running again without complaining.</p>",
+            "author": "Ethan M.",
+            "product": "stepx™-black-align-cushion-insoles",
+            "custom_title": "StepX™ - Align & Cushion Insoles",
             "url": ""
           }
         },
@@ -852,11 +852,11 @@
           "type": "testimonial",
           "settings": {
             "stars_count": 5,
-            "title": "Reviews 2",
-            "text": "<p>I tried Footstr for my son who was struggling with arch pain. He’s usually picky but said they felt 'weirdly good' right away. That’s a win in my book.</p>",
-            "author": "Cecilia R.",
-            "product": "posturereset™solette-ortopediche",
-            "custom_title": "Product title",
+            "title": "Great support for flat feet",
+            "text": "<p>My son’s feet collapsed inward with every step. These insoles corrected his posture noticeably. Even his physio noticed the difference. Super impressed with the quality.</p>",
+            "author": "Noah J.",
+            "product": "stepx™-black-align-cushion-insoles",
+            "custom_title": "StepX™ - Align & Cushion Insoles",
             "url": ""
           }
         },
@@ -864,11 +864,35 @@
           "type": "testimonial",
           "settings": {
             "stars_count": 5,
-            "title": "Reviews 3",
+            "title": "Worth every penny",
             "text": "<p>They're soft, supportive, and my 10-year-old hasn't taken them out of her shoes since she got them. Says it feels like 'walking on a marshmallow with bones.' Whatever that means, I’ll take it!</p>",
-            "author": "Karin A.",
-            "product": "posturereset™solette-ortopediche",
-            "custom_title": "Product title",
+            "author": "Samuel T.",
+            "product": "stepx™-black-align-cushion-insoles",
+            "custom_title": "StepX™ - Align & Cushion Insoles",
+            "url": ""
+          }
+        },
+        "testimonial_tDMQJG": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "His knees stopped hurting",
+            "text": "<p>We bought StepX because our son had knee pain from overpronation. After using them daily for school and sports, the pain disappeared. The alignment improvement is real.</p>",
+            "author": "Henry W.",
+            "product": "stepx™-black-align-cushion-insoles",
+            "custom_title": "StepX™ - Align & Cushion Insoles",
+            "url": ""
+          }
+        },
+        "testimonial_NN6Frk": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Perfect for active kids",
+            "text": "<p>My son plays soccer and always complained of heel soreness. These insoles completely changed that. Better stability, no more limping after practice, and he says they’re very comfy.</p>",
+            "author": "Lucas H.",
+            "product": "stepx™-black-align-cushion-insoles",
+            "custom_title": "StepX™ - Align & Cushion Insoles",
             "url": ""
           }
         }
@@ -880,7 +904,9 @@
         "heading_BUdf4j",
         "testimonial_XrVBQg",
         "testimonial_LXtfLc",
-        "testimonial_qiijKn"
+        "testimonial_qiijKn",
+        "testimonial_tDMQJG",
+        "testimonial_NN6Frk"
       ],
       "name": "SS - Testimonials #34",
       "settings": {
