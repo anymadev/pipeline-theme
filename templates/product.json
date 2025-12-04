@@ -1147,24 +1147,52 @@
           "settings": {
             "stars_count": 4.5,
             "stars_size": 20,
-            "stars_size_mobile": 20,
-            "stars_mt": 0,
-            "stars_mt_mobile": 0,
-            "stars_color": "#121212"
+            "stars_size_mobile": 16,
+            "stars_mt": 20,
+            "stars_mt_mobile": 24,
+            "stars_color": "#ff4b00"
           }
         },
-        "heading_bn6Tjt": {
+        "heading_78q6Yf": {
           "type": "heading",
           "settings": {
-            "heading": "<h2>Testimonials #34</h2>",
-            "heading_custom": false,
-            "heading_font": "josefin_sans_n4",
+            "heading": "<p>Rated 4.95/5 (10,000+ satisfied customers)</p>",
+            "heading_custom": true,
+            "heading_font": "figtree_n4",
+            "heading_size": 24,
+            "heading_size_mobile": 14,
+            "heading_height": 130,
+            "heading_mt": 12,
+            "heading_mt_mobile": 6,
+            "heading_color": "#000000"
+          }
+        },
+        "heading_gCzjcT": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>What Our Customers Say</p>",
+            "heading_custom": true,
+            "heading_font": "figtree_n6",
             "heading_size": 40,
-            "heading_size_mobile": 24,
+            "heading_size_mobile": 34,
             "heading_height": 130,
             "heading_mt": 12,
             "heading_mt_mobile": 10,
-            "heading_color": "#121212"
+            "heading_color": "#000000"
+          }
+        },
+        "heading_iXaCpr": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Real reviews from real people</p>",
+            "heading_custom": true,
+            "heading_font": "figtree_n4",
+            "heading_size": 24,
+            "heading_size_mobile": 14,
+            "heading_height": 130,
+            "heading_mt": 12,
+            "heading_mt_mobile": 6,
+            "heading_color": "#000000"
           }
         },
         "testimonial_ekgt3U": {
@@ -1295,7 +1323,9 @@
       },
       "block_order": [
         "rating_RWtztX",
-        "heading_bn6Tjt",
+        "heading_78q6Yf",
+        "heading_gCzjcT",
+        "heading_iXaCpr",
         "testimonial_ekgt3U",
         "testimonial_4wjbJm",
         "testimonial_jWdcfj",
